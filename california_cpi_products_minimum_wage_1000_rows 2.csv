@@ -1,0 +1,1001 @@
+Year,Product,Category,Average_Price,CPI,California_Minimum_Wage
+2005,Bread,Food,1.66,195.0,6.75
+2005,Milk,Food,3.9,195.0,6.75
+2005,Eggs,Food,5.17,195.0,6.75
+2005,Rice,Food,7.31,195.0,6.75
+2005,Flour,Food,9.14,195.0,6.75
+2005,Apples,Food,10.85,195.0,6.75
+2005,Bananas,Food,12.63,195.0,6.75
+2005,Chicken,Food,14.21,195.0,6.75
+2005,Beef,Food,16.48,195.0,6.75
+2005,Pork,Food,18.09,195.0,6.75
+2005,Cheese,Food,20.03,195.0,6.75
+2005,Butter,Food,21.11,195.0,6.75
+2005,Yogurt,Food,23.39,195.0,6.75
+2005,Coffee,Food,25.08,195.0,6.75
+2005,Tea,Food,26.61,195.0,6.75
+2005,Sugar,Food,28.69,195.0,6.75
+2005,Lettuce,Food,30.94,195.0,6.75
+2005,Tomatoes,Food,32.4,195.0,6.75
+2005,Potatoes,Food,34.28,195.0,6.75
+2005,Orange Juice,Food,35.64,195.0,6.75
+2005,Steel,Manufacturing,38.21,195.0,6.75
+2005,Aluminum,Manufacturing,39.75,195.0,6.75
+2005,Copper,Manufacturing,41.63,195.0,6.75
+2005,Lumber,Manufacturing,42.73,195.0,6.75
+2005,Cement,Manufacturing,45.12,195.0,6.75
+2005,Plastic Resin,Manufacturing,46.83,195.0,6.75
+2005,Glass,Manufacturing,48.93,195.0,6.75
+2005,Rubber,Manufacturing,50.52,195.0,6.75
+2005,Paper,Manufacturing,51.81,195.0,6.75
+2005,Cotton,Manufacturing,54.15,195.0,6.75
+2005,Diesel Fuel,Manufacturing,55.85,195.0,6.75
+2005,Electricity,Manufacturing,57.89,195.0,6.75
+2005,Industrial Gas,Manufacturing,59.73,195.0,6.75
+2005,Fertilizer,Manufacturing,61.62,195.0,6.75
+2005,Asphalt,Manufacturing,63.2,195.0,6.75
+2005,Men's Jeans,Retail,65.21,195.0,6.75
+2005,Women's Shirt,Retail,66.83,195.0,6.75
+2005,Athletic Shoes,Retail,68.28,195.0,6.75
+2005,Television,Retail,70.21,195.0,6.75
+2005,Laptop,Retail,71.83,195.0,6.75
+2005,Smartphone,Retail,73.77,195.0,6.75
+2005,Refrigerator,Retail,75.85,195.0,6.75
+2005,Microwave,Retail,77.79,195.0,6.75
+2005,Washing Machine,Retail,79.4,195.0,6.75
+2005,Sofa,Retail,80.61,195.0,6.75
+2005,Mattress,Retail,83.11,195.0,6.75
+2005,Office Chair,Retail,84.21,195.0,6.75
+2005,Backpack,Retail,86.0,195.0,6.75
+2005,Notebook,Retail,87.96,195.0,6.75
+2005,Printer Paper,Retail,89.62,195.0,6.75
+2006,Bread,Food,1.42,203.2,6.75
+2006,Milk,Food,3.87,203.2,6.75
+2006,Eggs,Food,5.15,203.2,6.75
+2006,Rice,Food,7.86,203.2,6.75
+2006,Flour,Food,9.51,203.2,6.75
+2006,Apples,Food,10.96,203.2,6.75
+2006,Bananas,Food,13.21,203.2,6.75
+2006,Chicken,Food,15.03,203.2,6.75
+2006,Beef,Food,16.53,203.2,6.75
+2006,Pork,Food,18.72,203.2,6.75
+2006,Cheese,Food,20.84,203.2,6.75
+2006,Butter,Food,22.94,203.2,6.75
+2006,Yogurt,Food,24.28,203.2,6.75
+2006,Coffee,Food,26.45,203.2,6.75
+2006,Tea,Food,28.14,203.2,6.75
+2006,Sugar,Food,29.46,203.2,6.75
+2006,Lettuce,Food,31.77,203.2,6.75
+2006,Tomatoes,Food,34.13,203.2,6.75
+2006,Potatoes,Food,35.93,203.2,6.75
+2006,Orange Juice,Food,37.71,203.2,6.75
+2006,Steel,Manufacturing,39.01,203.2,6.75
+2006,Aluminum,Manufacturing,40.8,203.2,6.75
+2006,Copper,Manufacturing,42.64,203.2,6.75
+2006,Lumber,Manufacturing,45.14,203.2,6.75
+2006,Cement,Manufacturing,47.1,203.2,6.75
+2006,Plastic Resin,Manufacturing,48.28,203.2,6.75
+2006,Glass,Manufacturing,50.5,203.2,6.75
+2006,Rubber,Manufacturing,52.05,203.2,6.75
+2006,Paper,Manufacturing,54.7,203.2,6.75
+2006,Cotton,Manufacturing,55.92,203.2,6.75
+2006,Diesel Fuel,Manufacturing,57.7,203.2,6.75
+2006,Electricity,Manufacturing,59.96,203.2,6.75
+2006,Industrial Gas,Manufacturing,62.02,203.2,6.75
+2006,Fertilizer,Manufacturing,63.44,203.2,6.75
+2006,Asphalt,Manufacturing,65.17,203.2,6.75
+2006,Men's Jeans,Retail,66.98,203.2,6.75
+2006,Women's Shirt,Retail,69.46,203.2,6.75
+2006,Athletic Shoes,Retail,71.0,203.2,6.75
+2006,Television,Retail,73.03,203.2,6.75
+2006,Laptop,Retail,75.26,203.2,6.75
+2006,Smartphone,Retail,77.02,203.2,6.75
+2006,Refrigerator,Retail,78.41,203.2,6.75
+2006,Microwave,Retail,80.96,203.2,6.75
+2006,Washing Machine,Retail,82.2,203.2,6.75
+2006,Sofa,Retail,84.06,203.2,6.75
+2006,Mattress,Retail,86.22,203.2,6.75
+2006,Office Chair,Retail,88.06,203.2,6.75
+2006,Backpack,Retail,89.81,203.2,6.75
+2006,Notebook,Retail,91.73,203.2,6.75
+2006,Printer Paper,Retail,93.82,203.2,6.75
+2007,Bread,Food,1.79,211.4,7.5
+2007,Milk,Food,3.75,211.4,7.5
+2007,Eggs,Food,5.7,211.4,7.5
+2007,Rice,Food,7.35,211.4,7.5
+2007,Flour,Food,9.95,211.4,7.5
+2007,Apples,Food,12.08,211.4,7.5
+2007,Bananas,Food,13.29,211.4,7.5
+2007,Chicken,Food,15.15,211.4,7.5
+2007,Beef,Food,17.08,211.4,7.5
+2007,Pork,Food,19.56,211.4,7.5
+2007,Cheese,Food,21.31,211.4,7.5
+2007,Butter,Food,23.32,211.4,7.5
+2007,Yogurt,Food,25.73,211.4,7.5
+2007,Coffee,Food,27.3,211.4,7.5
+2007,Tea,Food,29.04,211.4,7.5
+2007,Sugar,Food,31.02,211.4,7.5
+2007,Lettuce,Food,33.33,211.4,7.5
+2007,Tomatoes,Food,35.12,211.4,7.5
+2007,Potatoes,Food,36.72,211.4,7.5
+2007,Orange Juice,Food,38.63,211.4,7.5
+2007,Steel,Manufacturing,41.07,211.4,7.5
+2007,Aluminum,Manufacturing,42.87,211.4,7.5
+2007,Copper,Manufacturing,44.41,211.4,7.5
+2007,Lumber,Manufacturing,46.64,211.4,7.5
+2007,Cement,Manufacturing,48.36,211.4,7.5
+2007,Plastic Resin,Manufacturing,50.53,211.4,7.5
+2007,Glass,Manufacturing,52.21,211.4,7.5
+2007,Rubber,Manufacturing,54.67,211.4,7.5
+2007,Paper,Manufacturing,56.0,211.4,7.5
+2007,Cotton,Manufacturing,58.35,211.4,7.5
+2007,Diesel Fuel,Manufacturing,60.08,211.4,7.5
+2007,Electricity,Manufacturing,62.54,211.4,7.5
+2007,Industrial Gas,Manufacturing,64.38,211.4,7.5
+2007,Fertilizer,Manufacturing,66.19,211.4,7.5
+2007,Asphalt,Manufacturing,68.23,211.4,7.5
+2007,Men's Jeans,Retail,70.05,211.4,7.5
+2007,Women's Shirt,Retail,72.27,211.4,7.5
+2007,Athletic Shoes,Retail,74.01,211.4,7.5
+2007,Television,Retail,75.72,211.4,7.5
+2007,Laptop,Retail,78.0,211.4,7.5
+2007,Smartphone,Retail,79.77,211.4,7.5
+2007,Refrigerator,Retail,82.08,211.4,7.5
+2007,Microwave,Retail,83.24,211.4,7.5
+2007,Washing Machine,Retail,85.16,211.4,7.5
+2007,Sofa,Retail,87.3,211.4,7.5
+2007,Mattress,Retail,89.77,211.4,7.5
+2007,Office Chair,Retail,91.14,211.4,7.5
+2007,Backpack,Retail,93.39,211.4,7.5
+2007,Notebook,Retail,95.0,211.4,7.5
+2007,Printer Paper,Retail,97.26,211.4,7.5
+2008,Bread,Food,2.5,219.6,8.0
+2008,Milk,Food,3.67,219.6,8.0
+2008,Eggs,Food,6.0,219.6,8.0
+2008,Rice,Food,7.73,219.6,8.0
+2008,Flour,Food,9.93,219.6,8.0
+2008,Apples,Food,12.52,219.6,8.0
+2008,Bananas,Food,13.88,219.6,8.0
+2008,Chicken,Food,15.74,219.6,8.0
+2008,Beef,Food,18.27,219.6,8.0
+2008,Pork,Food,19.98,219.6,8.0
+2008,Cheese,Food,21.86,219.6,8.0
+2008,Butter,Food,24.06,219.6,8.0
+2008,Yogurt,Food,25.9,219.6,8.0
+2008,Coffee,Food,28.5,219.6,8.0
+2008,Tea,Food,29.95,219.6,8.0
+2008,Sugar,Food,32.58,219.6,8.0
+2008,Lettuce,Food,34.04,219.6,8.0
+2008,Tomatoes,Food,36.41,219.6,8.0
+2008,Potatoes,Food,38.3,219.6,8.0
+2008,Orange Juice,Food,40.14,219.6,8.0
+2008,Steel,Manufacturing,42.31,219.6,8.0
+2008,Aluminum,Manufacturing,44.48,219.6,8.0
+2008,Copper,Manufacturing,46.49,219.6,8.0
+2008,Lumber,Manufacturing,48.75,219.6,8.0
+2008,Cement,Manufacturing,50.28,219.6,8.0
+2008,Plastic Resin,Manufacturing,52.13,219.6,8.0
+2008,Glass,Manufacturing,54.16,219.6,8.0
+2008,Rubber,Manufacturing,56.88,219.6,8.0
+2008,Paper,Manufacturing,58.59,219.6,8.0
+2008,Cotton,Manufacturing,60.65,219.6,8.0
+2008,Diesel Fuel,Manufacturing,62.68,219.6,8.0
+2008,Electricity,Manufacturing,64.42,219.6,8.0
+2008,Industrial Gas,Manufacturing,66.62,219.6,8.0
+2008,Fertilizer,Manufacturing,68.84,219.6,8.0
+2008,Asphalt,Manufacturing,70.19,219.6,8.0
+2008,Men's Jeans,Retail,72.13,219.6,8.0
+2008,Women's Shirt,Retail,74.91,219.6,8.0
+2008,Athletic Shoes,Retail,76.89,219.6,8.0
+2008,Television,Retail,78.71,219.6,8.0
+2008,Laptop,Retail,80.4,219.6,8.0
+2008,Smartphone,Retail,82.19,219.6,8.0
+2008,Refrigerator,Retail,84.28,219.6,8.0
+2008,Microwave,Retail,86.49,219.6,8.0
+2008,Washing Machine,Retail,88.41,219.6,8.0
+2008,Sofa,Retail,90.94,219.6,8.0
+2008,Mattress,Retail,92.62,219.6,8.0
+2008,Office Chair,Retail,94.99,219.6,8.0
+2008,Backpack,Retail,97.1,219.6,8.0
+2008,Notebook,Retail,99.04,219.6,8.0
+2008,Printer Paper,Retail,100.79,219.6,8.0
+2009,Bread,Food,2.36,227.8,8.0
+2009,Milk,Food,4.32,227.8,8.0
+2009,Eggs,Food,6.52,227.8,8.0
+2009,Rice,Food,7.97,227.8,8.0
+2009,Flour,Food,10.44,227.8,8.0
+2009,Apples,Food,12.31,227.8,8.0
+2009,Bananas,Food,14.65,227.8,8.0
+2009,Chicken,Food,16.74,227.8,8.0
+2009,Beef,Food,18.72,227.8,8.0
+2009,Pork,Food,20.64,227.8,8.0
+2009,Cheese,Food,22.77,227.8,8.0
+2009,Butter,Food,25.25,227.8,8.0
+2009,Yogurt,Food,27.32,227.8,8.0
+2009,Coffee,Food,28.97,227.8,8.0
+2009,Tea,Food,31.39,227.8,8.0
+2009,Sugar,Food,33.77,227.8,8.0
+2009,Lettuce,Food,35.44,227.8,8.0
+2009,Tomatoes,Food,37.26,227.8,8.0
+2009,Potatoes,Food,39.31,227.8,8.0
+2009,Orange Juice,Food,41.3,227.8,8.0
+2009,Steel,Manufacturing,43.94,227.8,8.0
+2009,Aluminum,Manufacturing,46.32,227.8,8.0
+2009,Copper,Manufacturing,48.06,227.8,8.0
+2009,Lumber,Manufacturing,49.66,227.8,8.0
+2009,Cement,Manufacturing,51.74,227.8,8.0
+2009,Plastic Resin,Manufacturing,54.58,227.8,8.0
+2009,Glass,Manufacturing,56.33,227.8,8.0
+2009,Rubber,Manufacturing,58.2,227.8,8.0
+2009,Paper,Manufacturing,60.79,227.8,8.0
+2009,Cotton,Manufacturing,62.31,227.8,8.0
+2009,Diesel Fuel,Manufacturing,64.68,227.8,8.0
+2009,Electricity,Manufacturing,66.67,227.8,8.0
+2009,Industrial Gas,Manufacturing,69.08,227.8,8.0
+2009,Fertilizer,Manufacturing,70.99,227.8,8.0
+2009,Asphalt,Manufacturing,72.97,227.8,8.0
+2009,Men's Jeans,Retail,75.57,227.8,8.0
+2009,Women's Shirt,Retail,77.32,227.8,8.0
+2009,Athletic Shoes,Retail,79.68,227.8,8.0
+2009,Television,Retail,81.79,227.8,8.0
+2009,Laptop,Retail,83.14,227.8,8.0
+2009,Smartphone,Retail,85.82,227.8,8.0
+2009,Refrigerator,Retail,88.13,227.8,8.0
+2009,Microwave,Retail,89.81,227.8,8.0
+2009,Washing Machine,Retail,92.2,227.8,8.0
+2009,Sofa,Retail,93.86,227.8,8.0
+2009,Mattress,Retail,96.44,227.8,8.0
+2009,Office Chair,Retail,98.43,227.8,8.0
+2009,Backpack,Retail,100.31,227.8,8.0
+2009,Notebook,Retail,102.21,227.8,8.0
+2009,Printer Paper,Retail,104.79,227.8,8.0
+2010,Bread,Food,1.89,236.0,8.0
+2010,Milk,Food,4.11,236.0,8.0
+2010,Eggs,Food,6.9,236.0,8.0
+2010,Rice,Food,8.73,236.0,8.0
+2010,Flour,Food,10.33,236.0,8.0
+2010,Apples,Food,13.15,236.0,8.0
+2010,Bananas,Food,14.91,236.0,8.0
+2010,Chicken,Food,17.53,236.0,8.0
+2010,Beef,Food,19.8,236.0,8.0
+2010,Pork,Food,21.93,236.0,8.0
+2010,Cheese,Food,24.15,236.0,8.0
+2010,Butter,Food,25.52,236.0,8.0
+2010,Yogurt,Food,27.66,236.0,8.0
+2010,Coffee,Food,29.79,236.0,8.0
+2010,Tea,Food,31.95,236.0,8.0
+2010,Sugar,Food,34.59,236.0,8.0
+2010,Lettuce,Food,36.7,236.0,8.0
+2010,Tomatoes,Food,39.23,236.0,8.0
+2010,Potatoes,Food,40.8,236.0,8.0
+2010,Orange Juice,Food,43.67,236.0,8.0
+2010,Steel,Manufacturing,45.63,236.0,8.0
+2010,Aluminum,Manufacturing,47.05,236.0,8.0
+2010,Copper,Manufacturing,50.1,236.0,8.0
+2010,Lumber,Manufacturing,51.38,236.0,8.0
+2010,Cement,Manufacturing,54.35,236.0,8.0
+2010,Plastic Resin,Manufacturing,55.74,236.0,8.0
+2010,Glass,Manufacturing,57.97,236.0,8.0
+2010,Rubber,Manufacturing,60.58,236.0,8.0
+2010,Paper,Manufacturing,63.07,236.0,8.0
+2010,Cotton,Manufacturing,65.07,236.0,8.0
+2010,Diesel Fuel,Manufacturing,66.56,236.0,8.0
+2010,Electricity,Manufacturing,69.6,236.0,8.0
+2010,Industrial Gas,Manufacturing,71.14,236.0,8.0
+2010,Fertilizer,Manufacturing,73.51,236.0,8.0
+2010,Asphalt,Manufacturing,75.35,236.0,8.0
+2010,Men's Jeans,Retail,77.68,236.0,8.0
+2010,Women's Shirt,Retail,79.96,236.0,8.0
+2010,Athletic Shoes,Retail,81.61,236.0,8.0
+2010,Television,Retail,84.37,236.0,8.0
+2010,Laptop,Retail,86.88,236.0,8.0
+2010,Smartphone,Retail,88.08,236.0,8.0
+2010,Refrigerator,Retail,91.01,236.0,8.0
+2010,Microwave,Retail,93.31,236.0,8.0
+2010,Washing Machine,Retail,94.63,236.0,8.0
+2010,Sofa,Retail,97.18,236.0,8.0
+2010,Mattress,Retail,99.84,236.0,8.0
+2010,Office Chair,Retail,101.21,236.0,8.0
+2010,Backpack,Retail,103.23,236.0,8.0
+2010,Notebook,Retail,105.55,236.0,8.0
+2010,Printer Paper,Retail,108.21,236.0,8.0
+2011,Bread,Food,2.43,244.2,8.0
+2011,Milk,Food,4.42,244.2,8.0
+2011,Eggs,Food,6.52,244.2,8.0
+2011,Rice,Food,8.56,244.2,8.0
+2011,Flour,Food,10.76,244.2,8.0
+2011,Apples,Food,13.21,244.2,8.0
+2011,Bananas,Food,16.1,244.2,8.0
+2011,Chicken,Food,18.34,244.2,8.0
+2011,Beef,Food,19.65,244.2,8.0
+2011,Pork,Food,22.6,244.2,8.0
+2011,Cheese,Food,24.13,244.2,8.0
+2011,Butter,Food,27.19,244.2,8.0
+2011,Yogurt,Food,29.04,244.2,8.0
+2011,Coffee,Food,30.86,244.2,8.0
+2011,Tea,Food,33.72,244.2,8.0
+2011,Sugar,Food,35.57,244.2,8.0
+2011,Lettuce,Food,38.37,244.2,8.0
+2011,Tomatoes,Food,39.79,244.2,8.0
+2011,Potatoes,Food,41.97,244.2,8.0
+2011,Orange Juice,Food,44.44,244.2,8.0
+2011,Steel,Manufacturing,46.44,244.2,8.0
+2011,Aluminum,Manufacturing,49.42,244.2,8.0
+2011,Copper,Manufacturing,51.21,244.2,8.0
+2011,Lumber,Manufacturing,53.14,244.2,8.0
+2011,Cement,Manufacturing,55.4,244.2,8.0
+2011,Plastic Resin,Manufacturing,58.38,244.2,8.0
+2011,Glass,Manufacturing,60.49,244.2,8.0
+2011,Rubber,Manufacturing,62.62,244.2,8.0
+2011,Paper,Manufacturing,64.5,244.2,8.0
+2011,Cotton,Manufacturing,66.58,244.2,8.0
+2011,Diesel Fuel,Manufacturing,69.65,244.2,8.0
+2011,Electricity,Manufacturing,71.26,244.2,8.0
+2011,Industrial Gas,Manufacturing,73.53,244.2,8.0
+2011,Fertilizer,Manufacturing,75.67,244.2,8.0
+2011,Asphalt,Manufacturing,78.11,244.2,8.0
+2011,Men's Jeans,Retail,80.8,244.2,8.0
+2011,Women's Shirt,Retail,82.96,244.2,8.0
+2011,Athletic Shoes,Retail,84.9,244.2,8.0
+2011,Television,Retail,86.93,244.2,8.0
+2011,Laptop,Retail,88.84,244.2,8.0
+2011,Smartphone,Retail,91.56,244.2,8.0
+2011,Refrigerator,Retail,93.32,244.2,8.0
+2011,Microwave,Retail,95.93,244.2,8.0
+2011,Washing Machine,Retail,97.98,244.2,8.0
+2011,Sofa,Retail,99.95,244.2,8.0
+2011,Mattress,Retail,103.11,244.2,8.0
+2011,Office Chair,Retail,104.52,244.2,8.0
+2011,Backpack,Retail,106.71,244.2,8.0
+2011,Notebook,Retail,108.95,244.2,8.0
+2011,Printer Paper,Retail,111.13,244.2,8.0
+2012,Bread,Food,2.64,252.4,8.0
+2012,Milk,Food,4.54,252.4,8.0
+2012,Eggs,Food,6.79,252.4,8.0
+2012,Rice,Food,9.06,252.4,8.0
+2012,Flour,Food,11.24,252.4,8.0
+2012,Apples,Food,13.32,252.4,8.0
+2012,Bananas,Food,16.27,252.4,8.0
+2012,Chicken,Food,18.53,252.4,8.0
+2012,Beef,Food,21.01,252.4,8.0
+2012,Pork,Food,23.27,252.4,8.0
+2012,Cheese,Food,25.43,252.4,8.0
+2012,Butter,Food,27.39,252.4,8.0
+2012,Yogurt,Food,29.9,252.4,8.0
+2012,Coffee,Food,32.31,252.4,8.0
+2012,Tea,Food,34.52,252.4,8.0
+2012,Sugar,Food,37.03,252.4,8.0
+2012,Lettuce,Food,39.27,252.4,8.0
+2012,Tomatoes,Food,41.39,252.4,8.0
+2012,Potatoes,Food,43.97,252.4,8.0
+2012,Orange Juice,Food,46.21,252.4,8.0
+2012,Steel,Manufacturing,48.17,252.4,8.0
+2012,Aluminum,Manufacturing,50.52,252.4,8.0
+2012,Copper,Manufacturing,53.37,252.4,8.0
+2012,Lumber,Manufacturing,55.06,252.4,8.0
+2012,Cement,Manufacturing,57.52,252.4,8.0
+2012,Plastic Resin,Manufacturing,60.22,252.4,8.0
+2012,Glass,Manufacturing,62.45,252.4,8.0
+2012,Rubber,Manufacturing,64.84,252.4,8.0
+2012,Paper,Manufacturing,66.61,252.4,8.0
+2012,Cotton,Manufacturing,69.2,252.4,8.0
+2012,Diesel Fuel,Manufacturing,71.89,252.4,8.0
+2012,Electricity,Manufacturing,73.35,252.4,8.0
+2012,Industrial Gas,Manufacturing,76.46,252.4,8.0
+2012,Fertilizer,Manufacturing,78.65,252.4,8.0
+2012,Asphalt,Manufacturing,80.97,252.4,8.0
+2012,Men's Jeans,Retail,82.95,252.4,8.0
+2012,Women's Shirt,Retail,85.01,252.4,8.0
+2012,Athletic Shoes,Retail,87.71,252.4,8.0
+2012,Television,Retail,89.64,252.4,8.0
+2012,Laptop,Retail,92.54,252.4,8.0
+2012,Smartphone,Retail,94.95,252.4,8.0
+2012,Refrigerator,Retail,96.54,252.4,8.0
+2012,Microwave,Retail,98.65,252.4,8.0
+2012,Washing Machine,Retail,101.83,252.4,8.0
+2012,Sofa,Retail,103.26,252.4,8.0
+2012,Mattress,Retail,105.61,252.4,8.0
+2012,Office Chair,Retail,107.86,252.4,8.0
+2012,Backpack,Retail,110.56,252.4,8.0
+2012,Notebook,Retail,113.0,252.4,8.0
+2012,Printer Paper,Retail,115.46,252.4,8.0
+2013,Bread,Food,2.46,260.6,8.0
+2013,Milk,Food,4.26,260.6,8.0
+2013,Eggs,Food,6.7,260.6,8.0
+2013,Rice,Food,9.63,260.6,8.0
+2013,Flour,Food,11.93,260.6,8.0
+2013,Apples,Food,14.72,260.6,8.0
+2013,Bananas,Food,16.25,260.6,8.0
+2013,Chicken,Food,19.22,260.6,8.0
+2013,Beef,Food,21.24,260.6,8.0
+2013,Pork,Food,23.28,260.6,8.0
+2013,Cheese,Food,26.62,260.6,8.0
+2013,Butter,Food,28.4,260.6,8.0
+2013,Yogurt,Food,31.1,260.6,8.0
+2013,Coffee,Food,33.52,260.6,8.0
+2013,Tea,Food,35.85,260.6,8.0
+2013,Sugar,Food,38.12,260.6,8.0
+2013,Lettuce,Food,40.39,260.6,8.0
+2013,Tomatoes,Food,43.16,260.6,8.0
+2013,Potatoes,Food,45.41,260.6,8.0
+2013,Orange Juice,Food,47.18,260.6,8.0
+2013,Steel,Manufacturing,50.37,260.6,8.0
+2013,Aluminum,Manufacturing,51.97,260.6,8.0
+2013,Copper,Manufacturing,54.6,260.6,8.0
+2013,Lumber,Manufacturing,57.43,260.6,8.0
+2013,Cement,Manufacturing,59.1,260.6,8.0
+2013,Plastic Resin,Manufacturing,61.41,260.6,8.0
+2013,Glass,Manufacturing,63.94,260.6,8.0
+2013,Rubber,Manufacturing,66.91,260.6,8.0
+2013,Paper,Manufacturing,69.33,260.6,8.0
+2013,Cotton,Manufacturing,71.68,260.6,8.0
+2013,Diesel Fuel,Manufacturing,74.02,260.6,8.0
+2013,Electricity,Manufacturing,76.18,260.6,8.0
+2013,Industrial Gas,Manufacturing,78.44,260.6,8.0
+2013,Fertilizer,Manufacturing,81.16,260.6,8.0
+2013,Asphalt,Manufacturing,82.71,260.6,8.0
+2013,Men's Jeans,Retail,85.2,260.6,8.0
+2013,Women's Shirt,Retail,87.47,260.6,8.0
+2013,Athletic Shoes,Retail,90.19,260.6,8.0
+2013,Television,Retail,93.11,260.6,8.0
+2013,Laptop,Retail,94.6,260.6,8.0
+2013,Smartphone,Retail,97.05,260.6,8.0
+2013,Refrigerator,Retail,99.72,260.6,8.0
+2013,Microwave,Retail,102.13,260.6,8.0
+2013,Washing Machine,Retail,104.28,260.6,8.0
+2013,Sofa,Retail,106.5,260.6,8.0
+2013,Mattress,Retail,109.24,260.6,8.0
+2013,Office Chair,Retail,111.8,260.6,8.0
+2013,Backpack,Retail,114.18,260.6,8.0
+2013,Notebook,Retail,116.63,260.6,8.0
+2013,Printer Paper,Retail,119.07,260.6,8.0
+2014,Bread,Food,2.03,268.8,9.0
+2014,Milk,Food,4.53,268.8,9.0
+2014,Eggs,Food,7.67,268.8,9.0
+2014,Rice,Food,10.17,268.8,9.0
+2014,Flour,Food,12.27,268.8,9.0
+2014,Apples,Food,14.6,268.8,9.0
+2014,Bananas,Food,17.16,268.8,9.0
+2014,Chicken,Food,19.28,268.8,9.0
+2014,Beef,Food,21.88,268.8,9.0
+2014,Pork,Food,24.73,268.8,9.0
+2014,Cheese,Food,26.54,268.8,9.0
+2014,Butter,Food,29.12,268.8,9.0
+2014,Yogurt,Food,32.29,268.8,9.0
+2014,Coffee,Food,33.78,268.8,9.0
+2014,Tea,Food,36.75,268.8,9.0
+2014,Sugar,Food,39.32,268.8,9.0
+2014,Lettuce,Food,42.07,268.8,9.0
+2014,Tomatoes,Food,43.74,268.8,9.0
+2014,Potatoes,Food,46.7,268.8,9.0
+2014,Orange Juice,Food,49.39,268.8,9.0
+2014,Steel,Manufacturing,51.43,268.8,9.0
+2014,Aluminum,Manufacturing,53.51,268.8,9.0
+2014,Copper,Manufacturing,55.85,268.8,9.0
+2014,Lumber,Manufacturing,58.87,268.8,9.0
+2014,Cement,Manufacturing,61.04,268.8,9.0
+2014,Plastic Resin,Manufacturing,63.56,268.8,9.0
+2014,Glass,Manufacturing,66.23,268.8,9.0
+2014,Rubber,Manufacturing,68.7,268.8,9.0
+2014,Paper,Manufacturing,71.34,268.8,9.0
+2014,Cotton,Manufacturing,73.12,268.8,9.0
+2014,Diesel Fuel,Manufacturing,76.33,268.8,9.0
+2014,Electricity,Manufacturing,78.17,268.8,9.0
+2014,Industrial Gas,Manufacturing,80.64,268.8,9.0
+2014,Fertilizer,Manufacturing,82.75,268.8,9.0
+2014,Asphalt,Manufacturing,86.0,268.8,9.0
+2014,Men's Jeans,Retail,87.74,268.8,9.0
+2014,Women's Shirt,Retail,90.15,268.8,9.0
+2014,Athletic Shoes,Retail,92.94,268.8,9.0
+2014,Television,Retail,95.71,268.8,9.0
+2014,Laptop,Retail,97.72,268.8,9.0
+2014,Smartphone,Retail,100.41,268.8,9.0
+2014,Refrigerator,Retail,102.66,268.8,9.0
+2014,Microwave,Retail,105.7,268.8,9.0
+2014,Washing Machine,Retail,107.71,268.8,9.0
+2014,Sofa,Retail,110.02,268.8,9.0
+2014,Mattress,Retail,112.15,268.8,9.0
+2014,Office Chair,Retail,115.52,268.8,9.0
+2014,Backpack,Retail,117.37,268.8,9.0
+2014,Notebook,Retail,120.17,268.8,9.0
+2014,Printer Paper,Retail,122.23,268.8,9.0
+2015,Bread,Food,2.17,277.0,9.0
+2015,Milk,Food,5.35,277.0,9.0
+2015,Eggs,Food,7.41,277.0,9.0
+2015,Rice,Food,10.55,277.0,9.0
+2015,Flour,Food,12.59,277.0,9.0
+2015,Apples,Food,14.73,277.0,9.0
+2015,Bananas,Food,17.26,277.0,9.0
+2015,Chicken,Food,20.44,277.0,9.0
+2015,Beef,Food,22.67,277.0,9.0
+2015,Pork,Food,25.29,277.0,9.0
+2015,Cheese,Food,27.95,277.0,9.0
+2015,Butter,Food,30.2,277.0,9.0
+2015,Yogurt,Food,32.83,277.0,9.0
+2015,Coffee,Food,35.32,277.0,9.0
+2015,Tea,Food,37.99,277.0,9.0
+2015,Sugar,Food,40.05,277.0,9.0
+2015,Lettuce,Food,42.43,277.0,9.0
+2015,Tomatoes,Food,45.61,277.0,9.0
+2015,Potatoes,Food,47.47,277.0,9.0
+2015,Orange Juice,Food,50.72,277.0,9.0
+2015,Steel,Manufacturing,52.7,277.0,9.0
+2015,Aluminum,Manufacturing,55.94,277.0,9.0
+2015,Copper,Manufacturing,57.76,277.0,9.0
+2015,Lumber,Manufacturing,60.06,277.0,9.0
+2015,Cement,Manufacturing,62.69,277.0,9.0
+2015,Plastic Resin,Manufacturing,65.7,277.0,9.0
+2015,Glass,Manufacturing,67.63,277.0,9.0
+2015,Rubber,Manufacturing,70.42,277.0,9.0
+2015,Paper,Manufacturing,72.67,277.0,9.0
+2015,Cotton,Manufacturing,75.79,277.0,9.0
+2015,Diesel Fuel,Manufacturing,78.11,277.0,9.0
+2015,Electricity,Manufacturing,80.56,277.0,9.0
+2015,Industrial Gas,Manufacturing,83.59,277.0,9.0
+2015,Fertilizer,Manufacturing,86.03,277.0,9.0
+2015,Asphalt,Manufacturing,87.78,277.0,9.0
+2015,Men's Jeans,Retail,90.52,277.0,9.0
+2015,Women's Shirt,Retail,93.68,277.0,9.0
+2015,Athletic Shoes,Retail,95.35,277.0,9.0
+2015,Television,Retail,97.91,277.0,9.0
+2015,Laptop,Retail,101.22,277.0,9.0
+2015,Smartphone,Retail,103.71,277.0,9.0
+2015,Refrigerator,Retail,105.75,277.0,9.0
+2015,Microwave,Retail,108.64,277.0,9.0
+2015,Washing Machine,Retail,110.85,277.0,9.0
+2015,Sofa,Retail,112.94,277.0,9.0
+2015,Mattress,Retail,116.36,277.0,9.0
+2015,Office Chair,Retail,118.51,277.0,9.0
+2015,Backpack,Retail,120.54,277.0,9.0
+2015,Notebook,Retail,123.58,277.0,9.0
+2015,Printer Paper,Retail,126.08,277.0,9.0
+2016,Bread,Food,2.93,285.2,10.0
+2016,Milk,Food,4.93,285.2,10.0
+2016,Eggs,Food,7.79,285.2,10.0
+2016,Rice,Food,10.72,285.2,10.0
+2016,Flour,Food,13.28,285.2,10.0
+2016,Apples,Food,16.02,285.2,10.0
+2016,Bananas,Food,17.88,285.2,10.0
+2016,Chicken,Food,20.64,285.2,10.0
+2016,Beef,Food,23.15,285.2,10.0
+2016,Pork,Food,25.72,285.2,10.0
+2016,Cheese,Food,28.17,285.2,10.0
+2016,Butter,Food,30.64,285.2,10.0
+2016,Yogurt,Food,33.23,285.2,10.0
+2016,Coffee,Food,36.47,285.2,10.0
+2016,Tea,Food,38.51,285.2,10.0
+2016,Sugar,Food,41.64,285.2,10.0
+2016,Lettuce,Food,44.34,285.2,10.0
+2016,Tomatoes,Food,46.63,285.2,10.0
+2016,Potatoes,Food,48.87,285.2,10.0
+2016,Orange Juice,Food,51.42,285.2,10.0
+2016,Steel,Manufacturing,54.7,285.2,10.0
+2016,Aluminum,Manufacturing,57.05,285.2,10.0
+2016,Copper,Manufacturing,59.23,285.2,10.0
+2016,Lumber,Manufacturing,62.1,285.2,10.0
+2016,Cement,Manufacturing,64.61,285.2,10.0
+2016,Plastic Resin,Manufacturing,66.91,285.2,10.0
+2016,Glass,Manufacturing,69.79,285.2,10.0
+2016,Rubber,Manufacturing,72.84,285.2,10.0
+2016,Paper,Manufacturing,74.9,285.2,10.0
+2016,Cotton,Manufacturing,78.05,285.2,10.0
+2016,Diesel Fuel,Manufacturing,80.03,285.2,10.0
+2016,Electricity,Manufacturing,83.06,285.2,10.0
+2016,Industrial Gas,Manufacturing,85.52,285.2,10.0
+2016,Fertilizer,Manufacturing,88.33,285.2,10.0
+2016,Asphalt,Manufacturing,90.97,285.2,10.0
+2016,Men's Jeans,Retail,92.87,285.2,10.0
+2016,Women's Shirt,Retail,95.87,285.2,10.0
+2016,Athletic Shoes,Retail,98.9,285.2,10.0
+2016,Television,Retail,101.49,285.2,10.0
+2016,Laptop,Retail,103.78,285.2,10.0
+2016,Smartphone,Retail,106.74,285.2,10.0
+2016,Refrigerator,Retail,108.77,285.2,10.0
+2016,Microwave,Retail,111.63,285.2,10.0
+2016,Washing Machine,Retail,113.67,285.2,10.0
+2016,Sofa,Retail,116.7,285.2,10.0
+2016,Mattress,Retail,118.79,285.2,10.0
+2016,Office Chair,Retail,121.39,285.2,10.0
+2016,Backpack,Retail,124.9,285.2,10.0
+2016,Notebook,Retail,127.51,285.2,10.0
+2016,Printer Paper,Retail,129.21,285.2,10.0
+2017,Bread,Food,2.19,293.4,10.5
+2017,Milk,Food,5.52,293.4,10.5
+2017,Eggs,Food,7.52,293.4,10.5
+2017,Rice,Food,10.43,293.4,10.5
+2017,Flour,Food,13.57,293.4,10.5
+2017,Apples,Food,15.69,293.4,10.5
+2017,Bananas,Food,18.91,293.4,10.5
+2017,Chicken,Food,21.74,293.4,10.5
+2017,Beef,Food,23.64,293.4,10.5
+2017,Pork,Food,26.92,293.4,10.5
+2017,Cheese,Food,29.31,293.4,10.5
+2017,Butter,Food,31.9,293.4,10.5
+2017,Yogurt,Food,34.93,293.4,10.5
+2017,Coffee,Food,37.61,293.4,10.5
+2017,Tea,Food,39.73,293.4,10.5
+2017,Sugar,Food,42.73,293.4,10.5
+2017,Lettuce,Food,44.91,293.4,10.5
+2017,Tomatoes,Food,48.33,293.4,10.5
+2017,Potatoes,Food,50.98,293.4,10.5
+2017,Orange Juice,Food,52.79,293.4,10.5
+2017,Steel,Manufacturing,55.45,293.4,10.5
+2017,Aluminum,Manufacturing,59.01,293.4,10.5
+2017,Copper,Manufacturing,61.65,293.4,10.5
+2017,Lumber,Manufacturing,63.92,293.4,10.5
+2017,Cement,Manufacturing,66.88,293.4,10.5
+2017,Plastic Resin,Manufacturing,69.38,293.4,10.5
+2017,Glass,Manufacturing,71.46,293.4,10.5
+2017,Rubber,Manufacturing,74.96,293.4,10.5
+2017,Paper,Manufacturing,77.17,293.4,10.5
+2017,Cotton,Manufacturing,79.55,293.4,10.5
+2017,Diesel Fuel,Manufacturing,82.2,293.4,10.5
+2017,Electricity,Manufacturing,84.81,293.4,10.5
+2017,Industrial Gas,Manufacturing,87.45,293.4,10.5
+2017,Fertilizer,Manufacturing,90.42,293.4,10.5
+2017,Asphalt,Manufacturing,93.37,293.4,10.5
+2017,Men's Jeans,Retail,95.44,293.4,10.5
+2017,Women's Shirt,Retail,98.86,293.4,10.5
+2017,Athletic Shoes,Retail,101.36,293.4,10.5
+2017,Television,Retail,103.51,293.4,10.5
+2017,Laptop,Retail,107.01,293.4,10.5
+2017,Smartphone,Retail,109.21,293.4,10.5
+2017,Refrigerator,Retail,111.9,293.4,10.5
+2017,Microwave,Retail,114.81,293.4,10.5
+2017,Washing Machine,Retail,117.41,293.4,10.5
+2017,Sofa,Retail,119.51,293.4,10.5
+2017,Mattress,Retail,123.01,293.4,10.5
+2017,Office Chair,Retail,125.02,293.4,10.5
+2017,Backpack,Retail,127.38,293.4,10.5
+2017,Notebook,Retail,130.5,293.4,10.5
+2017,Printer Paper,Retail,132.83,293.4,10.5
+2018,Bread,Food,3.18,301.6,11.0
+2018,Milk,Food,5.63,301.6,11.0
+2018,Eggs,Food,8.35,301.6,11.0
+2018,Rice,Food,11.23,301.6,11.0
+2018,Flour,Food,13.56,301.6,11.0
+2018,Apples,Food,16.72,301.6,11.0
+2018,Bananas,Food,18.78,301.6,11.0
+2018,Chicken,Food,21.45,301.6,11.0
+2018,Beef,Food,25.06,301.6,11.0
+2018,Pork,Food,26.87,301.6,11.0
+2018,Cheese,Food,29.85,301.6,11.0
+2018,Butter,Food,32.93,301.6,11.0
+2018,Yogurt,Food,35.11,301.6,11.0
+2018,Coffee,Food,38.17,301.6,11.0
+2018,Tea,Food,40.69,301.6,11.0
+2018,Sugar,Food,43.29,301.6,11.0
+2018,Lettuce,Food,46.2,301.6,11.0
+2018,Tomatoes,Food,49.52,301.6,11.0
+2018,Potatoes,Food,51.77,301.6,11.0
+2018,Orange Juice,Food,54.36,301.6,11.0
+2018,Steel,Manufacturing,57.91,301.6,11.0
+2018,Aluminum,Manufacturing,59.93,301.6,11.0
+2018,Copper,Manufacturing,63.23,301.6,11.0
+2018,Lumber,Manufacturing,65.87,301.6,11.0
+2018,Cement,Manufacturing,68.25,301.6,11.0
+2018,Plastic Resin,Manufacturing,71.43,301.6,11.0
+2018,Glass,Manufacturing,74.15,301.6,11.0
+2018,Rubber,Manufacturing,76.62,301.6,11.0
+2018,Paper,Manufacturing,79.11,301.6,11.0
+2018,Cotton,Manufacturing,82.57,301.6,11.0
+2018,Diesel Fuel,Manufacturing,84.56,301.6,11.0
+2018,Electricity,Manufacturing,87.63,301.6,11.0
+2018,Industrial Gas,Manufacturing,90.36,301.6,11.0
+2018,Fertilizer,Manufacturing,92.99,301.6,11.0
+2018,Asphalt,Manufacturing,96.03,301.6,11.0
+2018,Men's Jeans,Retail,98.6,301.6,11.0
+2018,Women's Shirt,Retail,101.22,301.6,11.0
+2018,Athletic Shoes,Retail,103.5,301.6,11.0
+2018,Television,Retail,106.53,301.6,11.0
+2018,Laptop,Retail,109.55,301.6,11.0
+2018,Smartphone,Retail,112.6,301.6,11.0
+2018,Refrigerator,Retail,114.82,301.6,11.0
+2018,Microwave,Retail,117.9,301.6,11.0
+2018,Washing Machine,Retail,120.69,301.6,11.0
+2018,Sofa,Retail,123.0,301.6,11.0
+2018,Mattress,Retail,125.54,301.6,11.0
+2018,Office Chair,Retail,128.31,301.6,11.0
+2018,Backpack,Retail,131.67,301.6,11.0
+2018,Notebook,Retail,134.03,301.6,11.0
+2018,Printer Paper,Retail,136.55,301.6,11.0
+2019,Bread,Food,2.79,309.8,12.0
+2019,Milk,Food,5.52,309.8,12.0
+2019,Eggs,Food,8.19,309.8,12.0
+2019,Rice,Food,11.62,309.8,12.0
+2019,Flour,Food,14.36,309.8,12.0
+2019,Apples,Food,16.89,309.8,12.0
+2019,Bananas,Food,19.32,309.8,12.0
+2019,Chicken,Food,22.58,309.8,12.0
+2019,Beef,Food,25.12,309.8,12.0
+2019,Pork,Food,28.32,309.8,12.0
+2019,Cheese,Food,30.71,309.8,12.0
+2019,Butter,Food,33.93,309.8,12.0
+2019,Yogurt,Food,36.1,309.8,12.0
+2019,Coffee,Food,38.99,309.8,12.0
+2019,Tea,Food,42.46,309.8,12.0
+2019,Sugar,Food,45.17,309.8,12.0
+2019,Lettuce,Food,47.49,309.8,12.0
+2019,Tomatoes,Food,50.42,309.8,12.0
+2019,Potatoes,Food,53.65,309.8,12.0
+2019,Orange Juice,Food,56.44,309.8,12.0
+2019,Steel,Manufacturing,58.89,309.8,12.0
+2019,Aluminum,Manufacturing,61.97,309.8,12.0
+2019,Copper,Manufacturing,64.66,309.8,12.0
+2019,Lumber,Manufacturing,67.54,309.8,12.0
+2019,Cement,Manufacturing,70.2,309.8,12.0
+2019,Plastic Resin,Manufacturing,72.55,309.8,12.0
+2019,Glass,Manufacturing,75.95,309.8,12.0
+2019,Rubber,Manufacturing,78.55,309.8,12.0
+2019,Paper,Manufacturing,81.06,309.8,12.0
+2019,Cotton,Manufacturing,84.0,309.8,12.0
+2019,Diesel Fuel,Manufacturing,86.94,309.8,12.0
+2019,Electricity,Manufacturing,90.29,309.8,12.0
+2019,Industrial Gas,Manufacturing,92.58,309.8,12.0
+2019,Fertilizer,Manufacturing,95.58,309.8,12.0
+2019,Asphalt,Manufacturing,98.21,309.8,12.0
+2019,Men's Jeans,Retail,101.02,309.8,12.0
+2019,Women's Shirt,Retail,104.1,309.8,12.0
+2019,Athletic Shoes,Retail,106.57,309.8,12.0
+2019,Television,Retail,109.86,309.8,12.0
+2019,Laptop,Retail,112.68,309.8,12.0
+2019,Smartphone,Retail,114.64,309.8,12.0
+2019,Refrigerator,Retail,117.47,309.8,12.0
+2019,Microwave,Retail,120.38,309.8,12.0
+2019,Washing Machine,Retail,123.75,309.8,12.0
+2019,Sofa,Retail,126.13,309.8,12.0
+2019,Mattress,Retail,129.46,309.8,12.0
+2019,Office Chair,Retail,131.68,309.8,12.0
+2019,Backpack,Retail,135.0,309.8,12.0
+2019,Notebook,Retail,137.59,309.8,12.0
+2019,Printer Paper,Retail,139.95,309.8,12.0
+2020,Bread,Food,3.29,318.0,13.0
+2020,Milk,Food,5.82,318.0,13.0
+2020,Eggs,Food,8.96,318.0,13.0
+2020,Rice,Food,11.43,318.0,13.0
+2020,Flour,Food,14.38,318.0,13.0
+2020,Apples,Food,17.26,318.0,13.0
+2020,Bananas,Food,20.04,318.0,13.0
+2020,Chicken,Food,23.31,318.0,13.0
+2020,Beef,Food,25.51,318.0,13.0
+2020,Pork,Food,29.04,318.0,13.0
+2020,Cheese,Food,31.89,318.0,13.0
+2020,Butter,Food,34.41,318.0,13.0
+2020,Yogurt,Food,37.05,318.0,13.0
+2020,Coffee,Food,40.7,318.0,13.0
+2020,Tea,Food,43.15,318.0,13.0
+2020,Sugar,Food,45.68,318.0,13.0
+2020,Lettuce,Food,48.51,318.0,13.0
+2020,Tomatoes,Food,51.57,318.0,13.0
+2020,Potatoes,Food,55.04,318.0,13.0
+2020,Orange Juice,Food,58.07,318.0,13.0
+2020,Steel,Manufacturing,60.17,318.0,13.0
+2020,Aluminum,Manufacturing,63.53,318.0,13.0
+2020,Copper,Manufacturing,66.23,318.0,13.0
+2020,Lumber,Manufacturing,68.93,318.0,13.0
+2020,Cement,Manufacturing,72.36,318.0,13.0
+2020,Plastic Resin,Manufacturing,75.37,318.0,13.0
+2020,Glass,Manufacturing,77.97,318.0,13.0
+2020,Rubber,Manufacturing,80.64,318.0,13.0
+2020,Paper,Manufacturing,83.05,318.0,13.0
+2020,Cotton,Manufacturing,86.31,318.0,13.0
+2020,Diesel Fuel,Manufacturing,88.81,318.0,13.0
+2020,Electricity,Manufacturing,92.32,318.0,13.0
+2020,Industrial Gas,Manufacturing,94.75,318.0,13.0
+2020,Fertilizer,Manufacturing,97.88,318.0,13.0
+2020,Asphalt,Manufacturing,100.31,318.0,13.0
+2020,Men's Jeans,Retail,103.21,318.0,13.0
+2020,Women's Shirt,Retail,106.52,318.0,13.0
+2020,Athletic Shoes,Retail,109.75,318.0,13.0
+2020,Television,Retail,112.4,318.0,13.0
+2020,Laptop,Retail,114.72,318.0,13.0
+2020,Smartphone,Retail,117.86,318.0,13.0
+2020,Refrigerator,Retail,120.73,318.0,13.0
+2020,Microwave,Retail,124.24,318.0,13.0
+2020,Washing Machine,Retail,126.61,318.0,13.0
+2020,Sofa,Retail,130.08,318.0,13.0
+2020,Mattress,Retail,132.18,318.0,13.0
+2020,Office Chair,Retail,135.53,318.0,13.0
+2020,Backpack,Retail,137.95,318.0,13.0
+2020,Notebook,Retail,140.99,318.0,13.0
+2020,Printer Paper,Retail,143.78,318.0,13.0
+2021,Bread,Food,3.03,326.2,14.0
+2021,Milk,Food,5.75,326.2,14.0
+2021,Eggs,Food,9.17,326.2,14.0
+2021,Rice,Food,11.47,326.2,14.0
+2021,Flour,Food,14.34,326.2,14.0
+2021,Apples,Food,18.1,326.2,14.0
+2021,Bananas,Food,20.38,326.2,14.0
+2021,Chicken,Food,23.82,326.2,14.0
+2021,Beef,Food,26.72,326.2,14.0
+2021,Pork,Food,29.36,326.2,14.0
+2021,Cheese,Food,32.06,326.2,14.0
+2021,Butter,Food,35.83,326.2,14.0
+2021,Yogurt,Food,38.71,326.2,14.0
+2021,Coffee,Food,41.13,326.2,14.0
+2021,Tea,Food,44.11,326.2,14.0
+2021,Sugar,Food,47.32,326.2,14.0
+2021,Lettuce,Food,50.38,326.2,14.0
+2021,Tomatoes,Food,53.43,326.2,14.0
+2021,Potatoes,Food,55.82,326.2,14.0
+2021,Orange Juice,Food,59.24,326.2,14.0
+2021,Steel,Manufacturing,61.96,326.2,14.0
+2021,Aluminum,Manufacturing,64.87,326.2,14.0
+2021,Copper,Manufacturing,67.55,326.2,14.0
+2021,Lumber,Manufacturing,71.33,326.2,14.0
+2021,Cement,Manufacturing,73.85,326.2,14.0
+2021,Plastic Resin,Manufacturing,76.34,326.2,14.0
+2021,Glass,Manufacturing,79.21,326.2,14.0
+2021,Rubber,Manufacturing,82.5,326.2,14.0
+2021,Paper,Manufacturing,86.05,326.2,14.0
+2021,Cotton,Manufacturing,88.55,326.2,14.0
+2021,Diesel Fuel,Manufacturing,91.54,326.2,14.0
+2021,Electricity,Manufacturing,94.56,326.2,14.0
+2021,Industrial Gas,Manufacturing,97.32,326.2,14.0
+2021,Fertilizer,Manufacturing,99.91,326.2,14.0
+2021,Asphalt,Manufacturing,102.85,326.2,14.0
+2021,Men's Jeans,Retail,106.72,326.2,14.0
+2021,Women's Shirt,Retail,108.73,326.2,14.0
+2021,Athletic Shoes,Retail,111.82,326.2,14.0
+2021,Television,Retail,115.08,326.2,14.0
+2021,Laptop,Retail,117.72,326.2,14.0
+2021,Smartphone,Retail,121.09,326.2,14.0
+2021,Refrigerator,Retail,123.5,326.2,14.0
+2021,Microwave,Retail,126.86,326.2,14.0
+2021,Washing Machine,Retail,130.02,326.2,14.0
+2021,Sofa,Retail,132.41,326.2,14.0
+2021,Mattress,Retail,135.43,326.2,14.0
+2021,Office Chair,Retail,139.14,326.2,14.0
+2021,Backpack,Retail,141.37,326.2,14.0
+2021,Notebook,Retail,144.41,326.2,14.0
+2021,Printer Paper,Retail,147.11,326.2,14.0
+2022,Bread,Food,3.19,334.4,15.0
+2022,Milk,Food,5.9,334.4,15.0
+2022,Eggs,Food,9.04,334.4,15.0
+2022,Rice,Food,12.17,334.4,15.0
+2022,Flour,Food,15.61,334.4,15.0
+2022,Apples,Food,17.7,334.4,15.0
+2022,Bananas,Food,21.16,334.4,15.0
+2022,Chicken,Food,23.92,334.4,15.0
+2022,Beef,Food,27.68,334.4,15.0
+2022,Pork,Food,30.05,334.4,15.0
+2022,Cheese,Food,33.01,334.4,15.0
+2022,Butter,Food,36.28,334.4,15.0
+2022,Yogurt,Food,39.46,334.4,15.0
+2022,Coffee,Food,42.78,334.4,15.0
+2022,Tea,Food,45.3,334.4,15.0
+2022,Sugar,Food,48.04,334.4,15.0
+2022,Lettuce,Food,51.19,334.4,15.0
+2022,Tomatoes,Food,54.45,334.4,15.0
+2022,Potatoes,Food,57.6,334.4,15.0
+2022,Orange Juice,Food,60.53,334.4,15.0
+2022,Steel,Manufacturing,63.74,334.4,15.0
+2022,Aluminum,Manufacturing,66.38,334.4,15.0
+2022,Copper,Manufacturing,69.33,334.4,15.0
+2022,Lumber,Manufacturing,72.27,334.4,15.0
+2022,Cement,Manufacturing,75.62,334.4,15.0
+2022,Plastic Resin,Manufacturing,78.75,334.4,15.0
+2022,Glass,Manufacturing,81.19,334.4,15.0
+2022,Rubber,Manufacturing,84.25,334.4,15.0
+2022,Paper,Manufacturing,87.58,334.4,15.0
+2022,Cotton,Manufacturing,90.38,334.4,15.0
+2022,Diesel Fuel,Manufacturing,93.37,334.4,15.0
+2022,Electricity,Manufacturing,96.56,334.4,15.0
+2022,Industrial Gas,Manufacturing,99.34,334.4,15.0
+2022,Fertilizer,Manufacturing,102.74,334.4,15.0
+2022,Asphalt,Manufacturing,105.55,334.4,15.0
+2022,Men's Jeans,Retail,109.18,334.4,15.0
+2022,Women's Shirt,Retail,111.97,334.4,15.0
+2022,Athletic Shoes,Retail,114.53,334.4,15.0
+2022,Television,Retail,118.39,334.4,15.0
+2022,Laptop,Retail,120.78,334.4,15.0
+2022,Smartphone,Retail,123.58,334.4,15.0
+2022,Refrigerator,Retail,127.37,334.4,15.0
+2022,Microwave,Retail,129.96,334.4,15.0
+2022,Washing Machine,Retail,133.52,334.4,15.0
+2022,Sofa,Retail,136.23,334.4,15.0
+2022,Mattress,Retail,138.86,334.4,15.0
+2022,Office Chair,Retail,142.51,334.4,15.0
+2022,Backpack,Retail,145.39,334.4,15.0
+2022,Notebook,Retail,147.89,334.4,15.0
+2022,Printer Paper,Retail,151.62,334.4,15.0
+2023,Bread,Food,2.97,342.6,15.5
+2023,Milk,Food,6.63,342.6,15.5
+2023,Eggs,Food,8.85,342.6,15.5
+2023,Rice,Food,12.3,342.6,15.5
+2023,Flour,Food,15.21,342.6,15.5
+2023,Apples,Food,18.7,342.6,15.5
+2023,Bananas,Food,21.68,342.6,15.5
+2023,Chicken,Food,25.11,342.6,15.5
+2023,Beef,Food,27.57,342.6,15.5
+2023,Pork,Food,30.88,342.6,15.5
+2023,Cheese,Food,34.53,342.6,15.5
+2023,Butter,Food,36.82,342.6,15.5
+2023,Yogurt,Food,39.79,342.6,15.5
+2023,Coffee,Food,43.38,342.6,15.5
+2023,Tea,Food,46.48,342.6,15.5
+2023,Sugar,Food,49.44,342.6,15.5
+2023,Lettuce,Food,52.25,342.6,15.5
+2023,Tomatoes,Food,55.34,342.6,15.5
+2023,Potatoes,Food,58.73,342.6,15.5
+2023,Orange Juice,Food,62.05,342.6,15.5
+2023,Steel,Manufacturing,64.87,342.6,15.5
+2023,Aluminum,Manufacturing,68.02,342.6,15.5
+2023,Copper,Manufacturing,71.59,342.6,15.5
+2023,Lumber,Manufacturing,74.79,342.6,15.5
+2023,Cement,Manufacturing,77.63,342.6,15.5
+2023,Plastic Resin,Manufacturing,80.43,342.6,15.5
+2023,Glass,Manufacturing,83.29,342.6,15.5
+2023,Rubber,Manufacturing,86.58,342.6,15.5
+2023,Paper,Manufacturing,89.46,342.6,15.5
+2023,Cotton,Manufacturing,92.72,342.6,15.5
+2023,Diesel Fuel,Manufacturing,95.99,342.6,15.5
+2023,Electricity,Manufacturing,98.62,342.6,15.5
+2023,Industrial Gas,Manufacturing,102.52,342.6,15.5
+2023,Fertilizer,Manufacturing,105.57,342.6,15.5
+2023,Asphalt,Manufacturing,108.65,342.6,15.5
+2023,Men's Jeans,Retail,111.87,342.6,15.5
+2023,Women's Shirt,Retail,114.89,342.6,15.5
+2023,Athletic Shoes,Retail,117.35,342.6,15.5
+2023,Television,Retail,120.71,342.6,15.5
+2023,Laptop,Retail,123.41,342.6,15.5
+2023,Smartphone,Retail,127.18,342.6,15.5
+2023,Refrigerator,Retail,130.16,342.6,15.5
+2023,Microwave,Retail,133.26,342.6,15.5
+2023,Washing Machine,Retail,136.18,342.6,15.5
+2023,Sofa,Retail,139.39,342.6,15.5
+2023,Mattress,Retail,142.18,342.6,15.5
+2023,Office Chair,Retail,145.2,342.6,15.5
+2023,Backpack,Retail,148.16,342.6,15.5
+2023,Notebook,Retail,151.78,342.6,15.5
+2023,Printer Paper,Retail,155.16,342.6,15.5
+2024,Bread,Food,2.91,350.8,16.0
+2024,Milk,Food,6.35,350.8,16.0
+2024,Eggs,Food,9.2,350.8,16.0
+2024,Rice,Food,12.91,350.8,16.0
+2024,Flour,Food,15.75,350.8,16.0
+2024,Apples,Food,18.88,350.8,16.0
+2024,Bananas,Food,21.86,350.8,16.0
+2024,Chicken,Food,25.77,350.8,16.0
+2024,Beef,Food,28.42,350.8,16.0
+2024,Pork,Food,31.34,350.8,16.0
+2024,Cheese,Food,35.11,350.8,16.0
+2024,Butter,Food,38.46,350.8,16.0
+2024,Yogurt,Food,40.98,350.8,16.0
+2024,Coffee,Food,44.0,350.8,16.0
+2024,Tea,Food,47.41,350.8,16.0
+2024,Sugar,Food,50.65,350.8,16.0
+2024,Lettuce,Food,53.99,350.8,16.0
+2024,Tomatoes,Food,56.95,350.8,16.0
+2024,Potatoes,Food,60.38,350.8,16.0
+2024,Orange Juice,Food,63.47,350.8,16.0
+2024,Steel,Manufacturing,66.8,350.8,16.0
+2024,Aluminum,Manufacturing,70.12,350.8,16.0
+2024,Copper,Manufacturing,72.9,350.8,16.0
+2024,Lumber,Manufacturing,76.33,350.8,16.0
+2024,Cement,Manufacturing,79.32,350.8,16.0
+2024,Plastic Resin,Manufacturing,82.58,350.8,16.0
+2024,Glass,Manufacturing,85.81,350.8,16.0
+2024,Rubber,Manufacturing,89.13,350.8,16.0
+2024,Paper,Manufacturing,91.96,350.8,16.0
+2024,Cotton,Manufacturing,95.43,350.8,16.0
+2024,Diesel Fuel,Manufacturing,98.35,350.8,16.0
+2024,Electricity,Manufacturing,101.17,350.8,16.0
+2024,Industrial Gas,Manufacturing,104.61,350.8,16.0
+2024,Fertilizer,Manufacturing,107.22,350.8,16.0
+2024,Asphalt,Manufacturing,110.86,350.8,16.0
+2024,Men's Jeans,Retail,113.6,350.8,16.0
+2024,Women's Shirt,Retail,117.04,350.8,16.0
+2024,Athletic Shoes,Retail,120.76,350.8,16.0
+2024,Television,Retail,123.2,350.8,16.0
+2024,Laptop,Retail,126.26,350.8,16.0
+2024,Smartphone,Retail,129.4,350.8,16.0
+2024,Refrigerator,Retail,133.3,350.8,16.0
+2024,Microwave,Retail,135.8,350.8,16.0
+2024,Washing Machine,Retail,139.1,350.8,16.0
+2024,Sofa,Retail,142.53,350.8,16.0
+2024,Mattress,Retail,146.16,350.8,16.0
+2024,Office Chair,Retail,148.59,350.8,16.0
+2024,Backpack,Retail,152.05,350.8,16.0
+2024,Notebook,Retail,155.0,350.8,16.0
+2024,Printer Paper,Retail,158.12,350.8,16.0

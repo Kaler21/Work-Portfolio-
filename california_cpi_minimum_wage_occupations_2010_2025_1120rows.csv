@@ -1,0 +1,1121 @@
+Year,Industry,Occupation,Region,Employment Type,California Minimum Wage,California CPI Index,CPI Annual Change %
+2010,Retail,Cashier,Los Angeles,Full-time,8.0,217.2,
+2010,Retail,Sales Associate,San Diego,Full-time,8.0,217.2,
+2010,Retail,Stock Clerk,Sacramento,Full-time,8.0,217.2,
+2010,Retail,Store Supervisor,Fresno,Full-time,8.0,217.2,
+2010,Retail,Customer Service Rep,San Jose,Full-time,8.0,217.2,
+2010,Retail,Inventory Clerk,Oakland,Full-time,8.0,217.2,
+2010,Retail,Visual Merchandiser,Bakersfield,Full-time,8.0,217.2,
+2010,Food Service,Cook,Stockton,Full-time,8.0,217.2,
+2010,Food Service,Server,Riverside,Full-time,8.0,217.2,
+2010,Food Service,Barista,Modesto,Full-time,8.0,217.2,
+2010,Food Service,Dishwasher,Los Angeles,Full-time,8.0,217.2,
+2010,Food Service,Host,San Diego,Full-time,8.0,217.2,
+2010,Food Service,Kitchen Assistant,Sacramento,Full-time,8.0,217.2,
+2010,Food Service,Shift Lead,Fresno,Full-time,8.0,217.2,
+2010,Manufacturing,Assembler,San Jose,Full-time,8.0,217.2,
+2010,Manufacturing,Machine Operator,Oakland,Full-time,8.0,217.2,
+2010,Manufacturing,Welder,Bakersfield,Full-time,8.0,217.2,
+2010,Manufacturing,Quality Inspector,Stockton,Full-time,8.0,217.2,
+2010,Manufacturing,Forklift Operator,Riverside,Full-time,8.0,217.2,
+2010,Manufacturing,Production Worker,Modesto,Full-time,8.0,217.2,
+2010,Manufacturing,Packaging Technician,Los Angeles,Full-time,8.0,217.2,
+2010,Healthcare,Medical Assistant,San Diego,Full-time,8.0,217.2,
+2010,Healthcare,Receptionist,Sacramento,Full-time,8.0,217.2,
+2010,Healthcare,Pharmacy Technician,Fresno,Full-time,8.0,217.2,
+2010,Healthcare,Caregiver,San Jose,Full-time,8.0,217.2,
+2010,Healthcare,Lab Assistant,Oakland,Full-time,8.0,217.2,
+2010,Healthcare,Billing Clerk,Bakersfield,Full-time,8.0,217.2,
+2010,Healthcare,EMT,Stockton,Full-time,8.0,217.2,
+2010,Construction,Laborer,Riverside,Full-time,8.0,217.2,
+2010,Construction,Carpenter,Modesto,Full-time,8.0,217.2,
+2010,Construction,Electrician Helper,Los Angeles,Full-time,8.0,217.2,
+2010,Construction,Painter,San Diego,Full-time,8.0,217.2,
+2010,Construction,Equipment Operator,Sacramento,Full-time,8.0,217.2,
+2010,Construction,Concrete Worker,Fresno,Full-time,8.0,217.2,
+2010,Construction,Estimator,San Jose,Full-time,8.0,217.2,
+2010,Education,Teacher Aide,Oakland,Full-time,8.0,217.2,
+2010,Education,Office Assistant,Bakersfield,Full-time,8.0,217.2,
+2010,Education,Tutor,Stockton,Full-time,8.0,217.2,
+2010,Education,Librarian Assistant,Riverside,Full-time,8.0,217.2,
+2010,Education,Registrar Clerk,Modesto,Full-time,8.0,217.2,
+2010,Education,Campus Technician,Los Angeles,Full-time,8.0,217.2,
+2010,Education,Custodian,San Diego,Full-time,8.0,217.2,
+2010,Transportation,Driver,Sacramento,Full-time,8.0,217.2,
+2010,Transportation,Dispatcher,Fresno,Full-time,8.0,217.2,
+2010,Transportation,Warehouse Associate,San Jose,Full-time,8.0,217.2,
+2010,Transportation,Logistics Coordinator,Oakland,Full-time,8.0,217.2,
+2010,Transportation,Delivery Driver,Bakersfield,Full-time,8.0,217.2,
+2010,Transportation,Fleet Clerk,Stockton,Full-time,8.0,217.2,
+2010,Transportation,Shipping Clerk,Riverside,Full-time,8.0,217.2,
+2010,Finance,Bank Teller,Modesto,Full-time,8.0,217.2,
+2010,Finance,Loan Assistant,Los Angeles,Full-time,8.0,217.2,
+2010,Finance,Accounting Clerk,San Diego,Full-time,8.0,217.2,
+2010,Finance,Payroll Specialist,Sacramento,Full-time,8.0,217.2,
+2010,Finance,Data Entry Clerk,Fresno,Full-time,8.0,217.2,
+2010,Finance,Financial Assistant,San Jose,Full-time,8.0,217.2,
+2010,Finance,Collections Agent,Oakland,Full-time,8.0,217.2,
+2010,Technology,Help Desk Technician,Bakersfield,Full-time,8.0,217.2,
+2010,Technology,IT Support,Stockton,Full-time,8.0,217.2,
+2010,Technology,QA Tester,Riverside,Full-time,8.0,217.2,
+2010,Technology,Junior Analyst,Modesto,Full-time,8.0,217.2,
+2010,Technology,Data Technician,Los Angeles,Full-time,8.0,217.2,
+2010,Technology,Network Assistant,San Diego,Full-time,8.0,217.2,
+2010,Technology,Software Support,Sacramento,Full-time,8.0,217.2,
+2010,Hospitality,Front Desk Clerk,Fresno,Full-time,8.0,217.2,
+2010,Hospitality,Housekeeper,San Jose,Full-time,8.0,217.2,
+2010,Hospitality,Event Coordinator,Oakland,Full-time,8.0,217.2,
+2010,Hospitality,Concierge,Bakersfield,Full-time,8.0,217.2,
+2010,Hospitality,Bellhop,Stockton,Full-time,8.0,217.2,
+2010,Hospitality,Reservation Agent,Riverside,Full-time,8.0,217.2,
+2010,Hospitality,Night Auditor,Modesto,Full-time,8.0,217.2,
+2011,Retail,Cashier,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Retail,Sales Associate,San Diego,Full-time,8.0,223.0,2.67
+2011,Retail,Stock Clerk,Sacramento,Full-time,8.0,223.0,2.67
+2011,Retail,Store Supervisor,Fresno,Full-time,8.0,223.0,2.67
+2011,Retail,Customer Service Rep,San Jose,Full-time,8.0,223.0,2.67
+2011,Retail,Inventory Clerk,Oakland,Full-time,8.0,223.0,2.67
+2011,Retail,Visual Merchandiser,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Food Service,Cook,Stockton,Full-time,8.0,223.0,2.67
+2011,Food Service,Server,Riverside,Full-time,8.0,223.0,2.67
+2011,Food Service,Barista,Modesto,Full-time,8.0,223.0,2.67
+2011,Food Service,Dishwasher,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Food Service,Host,San Diego,Full-time,8.0,223.0,2.67
+2011,Food Service,Kitchen Assistant,Sacramento,Full-time,8.0,223.0,2.67
+2011,Food Service,Shift Lead,Fresno,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Assembler,San Jose,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Machine Operator,Oakland,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Welder,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Quality Inspector,Stockton,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Forklift Operator,Riverside,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Production Worker,Modesto,Full-time,8.0,223.0,2.67
+2011,Manufacturing,Packaging Technician,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Healthcare,Medical Assistant,San Diego,Full-time,8.0,223.0,2.67
+2011,Healthcare,Receptionist,Sacramento,Full-time,8.0,223.0,2.67
+2011,Healthcare,Pharmacy Technician,Fresno,Full-time,8.0,223.0,2.67
+2011,Healthcare,Caregiver,San Jose,Full-time,8.0,223.0,2.67
+2011,Healthcare,Lab Assistant,Oakland,Full-time,8.0,223.0,2.67
+2011,Healthcare,Billing Clerk,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Healthcare,EMT,Stockton,Full-time,8.0,223.0,2.67
+2011,Construction,Laborer,Riverside,Full-time,8.0,223.0,2.67
+2011,Construction,Carpenter,Modesto,Full-time,8.0,223.0,2.67
+2011,Construction,Electrician Helper,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Construction,Painter,San Diego,Full-time,8.0,223.0,2.67
+2011,Construction,Equipment Operator,Sacramento,Full-time,8.0,223.0,2.67
+2011,Construction,Concrete Worker,Fresno,Full-time,8.0,223.0,2.67
+2011,Construction,Estimator,San Jose,Full-time,8.0,223.0,2.67
+2011,Education,Teacher Aide,Oakland,Full-time,8.0,223.0,2.67
+2011,Education,Office Assistant,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Education,Tutor,Stockton,Full-time,8.0,223.0,2.67
+2011,Education,Librarian Assistant,Riverside,Full-time,8.0,223.0,2.67
+2011,Education,Registrar Clerk,Modesto,Full-time,8.0,223.0,2.67
+2011,Education,Campus Technician,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Education,Custodian,San Diego,Full-time,8.0,223.0,2.67
+2011,Transportation,Driver,Sacramento,Full-time,8.0,223.0,2.67
+2011,Transportation,Dispatcher,Fresno,Full-time,8.0,223.0,2.67
+2011,Transportation,Warehouse Associate,San Jose,Full-time,8.0,223.0,2.67
+2011,Transportation,Logistics Coordinator,Oakland,Full-time,8.0,223.0,2.67
+2011,Transportation,Delivery Driver,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Transportation,Fleet Clerk,Stockton,Full-time,8.0,223.0,2.67
+2011,Transportation,Shipping Clerk,Riverside,Full-time,8.0,223.0,2.67
+2011,Finance,Bank Teller,Modesto,Full-time,8.0,223.0,2.67
+2011,Finance,Loan Assistant,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Finance,Accounting Clerk,San Diego,Full-time,8.0,223.0,2.67
+2011,Finance,Payroll Specialist,Sacramento,Full-time,8.0,223.0,2.67
+2011,Finance,Data Entry Clerk,Fresno,Full-time,8.0,223.0,2.67
+2011,Finance,Financial Assistant,San Jose,Full-time,8.0,223.0,2.67
+2011,Finance,Collections Agent,Oakland,Full-time,8.0,223.0,2.67
+2011,Technology,Help Desk Technician,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Technology,IT Support,Stockton,Full-time,8.0,223.0,2.67
+2011,Technology,QA Tester,Riverside,Full-time,8.0,223.0,2.67
+2011,Technology,Junior Analyst,Modesto,Full-time,8.0,223.0,2.67
+2011,Technology,Data Technician,Los Angeles,Full-time,8.0,223.0,2.67
+2011,Technology,Network Assistant,San Diego,Full-time,8.0,223.0,2.67
+2011,Technology,Software Support,Sacramento,Full-time,8.0,223.0,2.67
+2011,Hospitality,Front Desk Clerk,Fresno,Full-time,8.0,223.0,2.67
+2011,Hospitality,Housekeeper,San Jose,Full-time,8.0,223.0,2.67
+2011,Hospitality,Event Coordinator,Oakland,Full-time,8.0,223.0,2.67
+2011,Hospitality,Concierge,Bakersfield,Full-time,8.0,223.0,2.67
+2011,Hospitality,Bellhop,Stockton,Full-time,8.0,223.0,2.67
+2011,Hospitality,Reservation Agent,Riverside,Full-time,8.0,223.0,2.67
+2011,Hospitality,Night Auditor,Modesto,Full-time,8.0,223.0,2.67
+2012,Retail,Cashier,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Retail,Sales Associate,San Diego,Full-time,8.0,227.7,2.11
+2012,Retail,Stock Clerk,Sacramento,Full-time,8.0,227.7,2.11
+2012,Retail,Store Supervisor,Fresno,Full-time,8.0,227.7,2.11
+2012,Retail,Customer Service Rep,San Jose,Full-time,8.0,227.7,2.11
+2012,Retail,Inventory Clerk,Oakland,Full-time,8.0,227.7,2.11
+2012,Retail,Visual Merchandiser,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Food Service,Cook,Stockton,Full-time,8.0,227.7,2.11
+2012,Food Service,Server,Riverside,Full-time,8.0,227.7,2.11
+2012,Food Service,Barista,Modesto,Full-time,8.0,227.7,2.11
+2012,Food Service,Dishwasher,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Food Service,Host,San Diego,Full-time,8.0,227.7,2.11
+2012,Food Service,Kitchen Assistant,Sacramento,Full-time,8.0,227.7,2.11
+2012,Food Service,Shift Lead,Fresno,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Assembler,San Jose,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Machine Operator,Oakland,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Welder,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Quality Inspector,Stockton,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Forklift Operator,Riverside,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Production Worker,Modesto,Full-time,8.0,227.7,2.11
+2012,Manufacturing,Packaging Technician,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Healthcare,Medical Assistant,San Diego,Full-time,8.0,227.7,2.11
+2012,Healthcare,Receptionist,Sacramento,Full-time,8.0,227.7,2.11
+2012,Healthcare,Pharmacy Technician,Fresno,Full-time,8.0,227.7,2.11
+2012,Healthcare,Caregiver,San Jose,Full-time,8.0,227.7,2.11
+2012,Healthcare,Lab Assistant,Oakland,Full-time,8.0,227.7,2.11
+2012,Healthcare,Billing Clerk,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Healthcare,EMT,Stockton,Full-time,8.0,227.7,2.11
+2012,Construction,Laborer,Riverside,Full-time,8.0,227.7,2.11
+2012,Construction,Carpenter,Modesto,Full-time,8.0,227.7,2.11
+2012,Construction,Electrician Helper,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Construction,Painter,San Diego,Full-time,8.0,227.7,2.11
+2012,Construction,Equipment Operator,Sacramento,Full-time,8.0,227.7,2.11
+2012,Construction,Concrete Worker,Fresno,Full-time,8.0,227.7,2.11
+2012,Construction,Estimator,San Jose,Full-time,8.0,227.7,2.11
+2012,Education,Teacher Aide,Oakland,Full-time,8.0,227.7,2.11
+2012,Education,Office Assistant,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Education,Tutor,Stockton,Full-time,8.0,227.7,2.11
+2012,Education,Librarian Assistant,Riverside,Full-time,8.0,227.7,2.11
+2012,Education,Registrar Clerk,Modesto,Full-time,8.0,227.7,2.11
+2012,Education,Campus Technician,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Education,Custodian,San Diego,Full-time,8.0,227.7,2.11
+2012,Transportation,Driver,Sacramento,Full-time,8.0,227.7,2.11
+2012,Transportation,Dispatcher,Fresno,Full-time,8.0,227.7,2.11
+2012,Transportation,Warehouse Associate,San Jose,Full-time,8.0,227.7,2.11
+2012,Transportation,Logistics Coordinator,Oakland,Full-time,8.0,227.7,2.11
+2012,Transportation,Delivery Driver,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Transportation,Fleet Clerk,Stockton,Full-time,8.0,227.7,2.11
+2012,Transportation,Shipping Clerk,Riverside,Full-time,8.0,227.7,2.11
+2012,Finance,Bank Teller,Modesto,Full-time,8.0,227.7,2.11
+2012,Finance,Loan Assistant,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Finance,Accounting Clerk,San Diego,Full-time,8.0,227.7,2.11
+2012,Finance,Payroll Specialist,Sacramento,Full-time,8.0,227.7,2.11
+2012,Finance,Data Entry Clerk,Fresno,Full-time,8.0,227.7,2.11
+2012,Finance,Financial Assistant,San Jose,Full-time,8.0,227.7,2.11
+2012,Finance,Collections Agent,Oakland,Full-time,8.0,227.7,2.11
+2012,Technology,Help Desk Technician,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Technology,IT Support,Stockton,Full-time,8.0,227.7,2.11
+2012,Technology,QA Tester,Riverside,Full-time,8.0,227.7,2.11
+2012,Technology,Junior Analyst,Modesto,Full-time,8.0,227.7,2.11
+2012,Technology,Data Technician,Los Angeles,Full-time,8.0,227.7,2.11
+2012,Technology,Network Assistant,San Diego,Full-time,8.0,227.7,2.11
+2012,Technology,Software Support,Sacramento,Full-time,8.0,227.7,2.11
+2012,Hospitality,Front Desk Clerk,Fresno,Full-time,8.0,227.7,2.11
+2012,Hospitality,Housekeeper,San Jose,Full-time,8.0,227.7,2.11
+2012,Hospitality,Event Coordinator,Oakland,Full-time,8.0,227.7,2.11
+2012,Hospitality,Concierge,Bakersfield,Full-time,8.0,227.7,2.11
+2012,Hospitality,Bellhop,Stockton,Full-time,8.0,227.7,2.11
+2012,Hospitality,Reservation Agent,Riverside,Full-time,8.0,227.7,2.11
+2012,Hospitality,Night Auditor,Modesto,Full-time,8.0,227.7,2.11
+2013,Retail,Cashier,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Retail,Sales Associate,San Diego,Full-time,8.0,231.3,1.58
+2013,Retail,Stock Clerk,Sacramento,Full-time,8.0,231.3,1.58
+2013,Retail,Store Supervisor,Fresno,Full-time,8.0,231.3,1.58
+2013,Retail,Customer Service Rep,San Jose,Full-time,8.0,231.3,1.58
+2013,Retail,Inventory Clerk,Oakland,Full-time,8.0,231.3,1.58
+2013,Retail,Visual Merchandiser,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Food Service,Cook,Stockton,Full-time,8.0,231.3,1.58
+2013,Food Service,Server,Riverside,Full-time,8.0,231.3,1.58
+2013,Food Service,Barista,Modesto,Full-time,8.0,231.3,1.58
+2013,Food Service,Dishwasher,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Food Service,Host,San Diego,Full-time,8.0,231.3,1.58
+2013,Food Service,Kitchen Assistant,Sacramento,Full-time,8.0,231.3,1.58
+2013,Food Service,Shift Lead,Fresno,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Assembler,San Jose,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Machine Operator,Oakland,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Welder,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Quality Inspector,Stockton,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Forklift Operator,Riverside,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Production Worker,Modesto,Full-time,8.0,231.3,1.58
+2013,Manufacturing,Packaging Technician,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Healthcare,Medical Assistant,San Diego,Full-time,8.0,231.3,1.58
+2013,Healthcare,Receptionist,Sacramento,Full-time,8.0,231.3,1.58
+2013,Healthcare,Pharmacy Technician,Fresno,Full-time,8.0,231.3,1.58
+2013,Healthcare,Caregiver,San Jose,Full-time,8.0,231.3,1.58
+2013,Healthcare,Lab Assistant,Oakland,Full-time,8.0,231.3,1.58
+2013,Healthcare,Billing Clerk,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Healthcare,EMT,Stockton,Full-time,8.0,231.3,1.58
+2013,Construction,Laborer,Riverside,Full-time,8.0,231.3,1.58
+2013,Construction,Carpenter,Modesto,Full-time,8.0,231.3,1.58
+2013,Construction,Electrician Helper,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Construction,Painter,San Diego,Full-time,8.0,231.3,1.58
+2013,Construction,Equipment Operator,Sacramento,Full-time,8.0,231.3,1.58
+2013,Construction,Concrete Worker,Fresno,Full-time,8.0,231.3,1.58
+2013,Construction,Estimator,San Jose,Full-time,8.0,231.3,1.58
+2013,Education,Teacher Aide,Oakland,Full-time,8.0,231.3,1.58
+2013,Education,Office Assistant,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Education,Tutor,Stockton,Full-time,8.0,231.3,1.58
+2013,Education,Librarian Assistant,Riverside,Full-time,8.0,231.3,1.58
+2013,Education,Registrar Clerk,Modesto,Full-time,8.0,231.3,1.58
+2013,Education,Campus Technician,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Education,Custodian,San Diego,Full-time,8.0,231.3,1.58
+2013,Transportation,Driver,Sacramento,Full-time,8.0,231.3,1.58
+2013,Transportation,Dispatcher,Fresno,Full-time,8.0,231.3,1.58
+2013,Transportation,Warehouse Associate,San Jose,Full-time,8.0,231.3,1.58
+2013,Transportation,Logistics Coordinator,Oakland,Full-time,8.0,231.3,1.58
+2013,Transportation,Delivery Driver,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Transportation,Fleet Clerk,Stockton,Full-time,8.0,231.3,1.58
+2013,Transportation,Shipping Clerk,Riverside,Full-time,8.0,231.3,1.58
+2013,Finance,Bank Teller,Modesto,Full-time,8.0,231.3,1.58
+2013,Finance,Loan Assistant,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Finance,Accounting Clerk,San Diego,Full-time,8.0,231.3,1.58
+2013,Finance,Payroll Specialist,Sacramento,Full-time,8.0,231.3,1.58
+2013,Finance,Data Entry Clerk,Fresno,Full-time,8.0,231.3,1.58
+2013,Finance,Financial Assistant,San Jose,Full-time,8.0,231.3,1.58
+2013,Finance,Collections Agent,Oakland,Full-time,8.0,231.3,1.58
+2013,Technology,Help Desk Technician,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Technology,IT Support,Stockton,Full-time,8.0,231.3,1.58
+2013,Technology,QA Tester,Riverside,Full-time,8.0,231.3,1.58
+2013,Technology,Junior Analyst,Modesto,Full-time,8.0,231.3,1.58
+2013,Technology,Data Technician,Los Angeles,Full-time,8.0,231.3,1.58
+2013,Technology,Network Assistant,San Diego,Full-time,8.0,231.3,1.58
+2013,Technology,Software Support,Sacramento,Full-time,8.0,231.3,1.58
+2013,Hospitality,Front Desk Clerk,Fresno,Full-time,8.0,231.3,1.58
+2013,Hospitality,Housekeeper,San Jose,Full-time,8.0,231.3,1.58
+2013,Hospitality,Event Coordinator,Oakland,Full-time,8.0,231.3,1.58
+2013,Hospitality,Concierge,Bakersfield,Full-time,8.0,231.3,1.58
+2013,Hospitality,Bellhop,Stockton,Full-time,8.0,231.3,1.58
+2013,Hospitality,Reservation Agent,Riverside,Full-time,8.0,231.3,1.58
+2013,Hospitality,Night Auditor,Modesto,Full-time,8.0,231.3,1.58
+2014,Retail,Cashier,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Retail,Sales Associate,San Diego,Full-time,9.0,235.7,1.9
+2014,Retail,Stock Clerk,Sacramento,Full-time,9.0,235.7,1.9
+2014,Retail,Store Supervisor,Fresno,Full-time,9.0,235.7,1.9
+2014,Retail,Customer Service Rep,San Jose,Full-time,9.0,235.7,1.9
+2014,Retail,Inventory Clerk,Oakland,Full-time,9.0,235.7,1.9
+2014,Retail,Visual Merchandiser,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Food Service,Cook,Stockton,Full-time,9.0,235.7,1.9
+2014,Food Service,Server,Riverside,Full-time,9.0,235.7,1.9
+2014,Food Service,Barista,Modesto,Full-time,9.0,235.7,1.9
+2014,Food Service,Dishwasher,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Food Service,Host,San Diego,Full-time,9.0,235.7,1.9
+2014,Food Service,Kitchen Assistant,Sacramento,Full-time,9.0,235.7,1.9
+2014,Food Service,Shift Lead,Fresno,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Assembler,San Jose,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Machine Operator,Oakland,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Welder,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Quality Inspector,Stockton,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Forklift Operator,Riverside,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Production Worker,Modesto,Full-time,9.0,235.7,1.9
+2014,Manufacturing,Packaging Technician,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Healthcare,Medical Assistant,San Diego,Full-time,9.0,235.7,1.9
+2014,Healthcare,Receptionist,Sacramento,Full-time,9.0,235.7,1.9
+2014,Healthcare,Pharmacy Technician,Fresno,Full-time,9.0,235.7,1.9
+2014,Healthcare,Caregiver,San Jose,Full-time,9.0,235.7,1.9
+2014,Healthcare,Lab Assistant,Oakland,Full-time,9.0,235.7,1.9
+2014,Healthcare,Billing Clerk,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Healthcare,EMT,Stockton,Full-time,9.0,235.7,1.9
+2014,Construction,Laborer,Riverside,Full-time,9.0,235.7,1.9
+2014,Construction,Carpenter,Modesto,Full-time,9.0,235.7,1.9
+2014,Construction,Electrician Helper,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Construction,Painter,San Diego,Full-time,9.0,235.7,1.9
+2014,Construction,Equipment Operator,Sacramento,Full-time,9.0,235.7,1.9
+2014,Construction,Concrete Worker,Fresno,Full-time,9.0,235.7,1.9
+2014,Construction,Estimator,San Jose,Full-time,9.0,235.7,1.9
+2014,Education,Teacher Aide,Oakland,Full-time,9.0,235.7,1.9
+2014,Education,Office Assistant,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Education,Tutor,Stockton,Full-time,9.0,235.7,1.9
+2014,Education,Librarian Assistant,Riverside,Full-time,9.0,235.7,1.9
+2014,Education,Registrar Clerk,Modesto,Full-time,9.0,235.7,1.9
+2014,Education,Campus Technician,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Education,Custodian,San Diego,Full-time,9.0,235.7,1.9
+2014,Transportation,Driver,Sacramento,Full-time,9.0,235.7,1.9
+2014,Transportation,Dispatcher,Fresno,Full-time,9.0,235.7,1.9
+2014,Transportation,Warehouse Associate,San Jose,Full-time,9.0,235.7,1.9
+2014,Transportation,Logistics Coordinator,Oakland,Full-time,9.0,235.7,1.9
+2014,Transportation,Delivery Driver,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Transportation,Fleet Clerk,Stockton,Full-time,9.0,235.7,1.9
+2014,Transportation,Shipping Clerk,Riverside,Full-time,9.0,235.7,1.9
+2014,Finance,Bank Teller,Modesto,Full-time,9.0,235.7,1.9
+2014,Finance,Loan Assistant,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Finance,Accounting Clerk,San Diego,Full-time,9.0,235.7,1.9
+2014,Finance,Payroll Specialist,Sacramento,Full-time,9.0,235.7,1.9
+2014,Finance,Data Entry Clerk,Fresno,Full-time,9.0,235.7,1.9
+2014,Finance,Financial Assistant,San Jose,Full-time,9.0,235.7,1.9
+2014,Finance,Collections Agent,Oakland,Full-time,9.0,235.7,1.9
+2014,Technology,Help Desk Technician,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Technology,IT Support,Stockton,Full-time,9.0,235.7,1.9
+2014,Technology,QA Tester,Riverside,Full-time,9.0,235.7,1.9
+2014,Technology,Junior Analyst,Modesto,Full-time,9.0,235.7,1.9
+2014,Technology,Data Technician,Los Angeles,Full-time,9.0,235.7,1.9
+2014,Technology,Network Assistant,San Diego,Full-time,9.0,235.7,1.9
+2014,Technology,Software Support,Sacramento,Full-time,9.0,235.7,1.9
+2014,Hospitality,Front Desk Clerk,Fresno,Full-time,9.0,235.7,1.9
+2014,Hospitality,Housekeeper,San Jose,Full-time,9.0,235.7,1.9
+2014,Hospitality,Event Coordinator,Oakland,Full-time,9.0,235.7,1.9
+2014,Hospitality,Concierge,Bakersfield,Full-time,9.0,235.7,1.9
+2014,Hospitality,Bellhop,Stockton,Full-time,9.0,235.7,1.9
+2014,Hospitality,Reservation Agent,Riverside,Full-time,9.0,235.7,1.9
+2014,Hospitality,Night Auditor,Modesto,Full-time,9.0,235.7,1.9
+2015,Retail,Cashier,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Retail,Sales Associate,San Diego,Full-time,9.0,240.5,2.04
+2015,Retail,Stock Clerk,Sacramento,Full-time,9.0,240.5,2.04
+2015,Retail,Store Supervisor,Fresno,Full-time,9.0,240.5,2.04
+2015,Retail,Customer Service Rep,San Jose,Full-time,9.0,240.5,2.04
+2015,Retail,Inventory Clerk,Oakland,Full-time,9.0,240.5,2.04
+2015,Retail,Visual Merchandiser,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Food Service,Cook,Stockton,Full-time,9.0,240.5,2.04
+2015,Food Service,Server,Riverside,Full-time,9.0,240.5,2.04
+2015,Food Service,Barista,Modesto,Full-time,9.0,240.5,2.04
+2015,Food Service,Dishwasher,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Food Service,Host,San Diego,Full-time,9.0,240.5,2.04
+2015,Food Service,Kitchen Assistant,Sacramento,Full-time,9.0,240.5,2.04
+2015,Food Service,Shift Lead,Fresno,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Assembler,San Jose,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Machine Operator,Oakland,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Welder,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Quality Inspector,Stockton,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Forklift Operator,Riverside,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Production Worker,Modesto,Full-time,9.0,240.5,2.04
+2015,Manufacturing,Packaging Technician,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Healthcare,Medical Assistant,San Diego,Full-time,9.0,240.5,2.04
+2015,Healthcare,Receptionist,Sacramento,Full-time,9.0,240.5,2.04
+2015,Healthcare,Pharmacy Technician,Fresno,Full-time,9.0,240.5,2.04
+2015,Healthcare,Caregiver,San Jose,Full-time,9.0,240.5,2.04
+2015,Healthcare,Lab Assistant,Oakland,Full-time,9.0,240.5,2.04
+2015,Healthcare,Billing Clerk,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Healthcare,EMT,Stockton,Full-time,9.0,240.5,2.04
+2015,Construction,Laborer,Riverside,Full-time,9.0,240.5,2.04
+2015,Construction,Carpenter,Modesto,Full-time,9.0,240.5,2.04
+2015,Construction,Electrician Helper,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Construction,Painter,San Diego,Full-time,9.0,240.5,2.04
+2015,Construction,Equipment Operator,Sacramento,Full-time,9.0,240.5,2.04
+2015,Construction,Concrete Worker,Fresno,Full-time,9.0,240.5,2.04
+2015,Construction,Estimator,San Jose,Full-time,9.0,240.5,2.04
+2015,Education,Teacher Aide,Oakland,Full-time,9.0,240.5,2.04
+2015,Education,Office Assistant,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Education,Tutor,Stockton,Full-time,9.0,240.5,2.04
+2015,Education,Librarian Assistant,Riverside,Full-time,9.0,240.5,2.04
+2015,Education,Registrar Clerk,Modesto,Full-time,9.0,240.5,2.04
+2015,Education,Campus Technician,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Education,Custodian,San Diego,Full-time,9.0,240.5,2.04
+2015,Transportation,Driver,Sacramento,Full-time,9.0,240.5,2.04
+2015,Transportation,Dispatcher,Fresno,Full-time,9.0,240.5,2.04
+2015,Transportation,Warehouse Associate,San Jose,Full-time,9.0,240.5,2.04
+2015,Transportation,Logistics Coordinator,Oakland,Full-time,9.0,240.5,2.04
+2015,Transportation,Delivery Driver,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Transportation,Fleet Clerk,Stockton,Full-time,9.0,240.5,2.04
+2015,Transportation,Shipping Clerk,Riverside,Full-time,9.0,240.5,2.04
+2015,Finance,Bank Teller,Modesto,Full-time,9.0,240.5,2.04
+2015,Finance,Loan Assistant,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Finance,Accounting Clerk,San Diego,Full-time,9.0,240.5,2.04
+2015,Finance,Payroll Specialist,Sacramento,Full-time,9.0,240.5,2.04
+2015,Finance,Data Entry Clerk,Fresno,Full-time,9.0,240.5,2.04
+2015,Finance,Financial Assistant,San Jose,Full-time,9.0,240.5,2.04
+2015,Finance,Collections Agent,Oakland,Full-time,9.0,240.5,2.04
+2015,Technology,Help Desk Technician,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Technology,IT Support,Stockton,Full-time,9.0,240.5,2.04
+2015,Technology,QA Tester,Riverside,Full-time,9.0,240.5,2.04
+2015,Technology,Junior Analyst,Modesto,Full-time,9.0,240.5,2.04
+2015,Technology,Data Technician,Los Angeles,Full-time,9.0,240.5,2.04
+2015,Technology,Network Assistant,San Diego,Full-time,9.0,240.5,2.04
+2015,Technology,Software Support,Sacramento,Full-time,9.0,240.5,2.04
+2015,Hospitality,Front Desk Clerk,Fresno,Full-time,9.0,240.5,2.04
+2015,Hospitality,Housekeeper,San Jose,Full-time,9.0,240.5,2.04
+2015,Hospitality,Event Coordinator,Oakland,Full-time,9.0,240.5,2.04
+2015,Hospitality,Concierge,Bakersfield,Full-time,9.0,240.5,2.04
+2015,Hospitality,Bellhop,Stockton,Full-time,9.0,240.5,2.04
+2015,Hospitality,Reservation Agent,Riverside,Full-time,9.0,240.5,2.04
+2015,Hospitality,Night Auditor,Modesto,Full-time,9.0,240.5,2.04
+2016,Retail,Cashier,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Retail,Sales Associate,San Diego,Full-time,10.0,246.0,2.29
+2016,Retail,Stock Clerk,Sacramento,Full-time,10.0,246.0,2.29
+2016,Retail,Store Supervisor,Fresno,Full-time,10.0,246.0,2.29
+2016,Retail,Customer Service Rep,San Jose,Full-time,10.0,246.0,2.29
+2016,Retail,Inventory Clerk,Oakland,Full-time,10.0,246.0,2.29
+2016,Retail,Visual Merchandiser,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Food Service,Cook,Stockton,Full-time,10.0,246.0,2.29
+2016,Food Service,Server,Riverside,Full-time,10.0,246.0,2.29
+2016,Food Service,Barista,Modesto,Full-time,10.0,246.0,2.29
+2016,Food Service,Dishwasher,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Food Service,Host,San Diego,Full-time,10.0,246.0,2.29
+2016,Food Service,Kitchen Assistant,Sacramento,Full-time,10.0,246.0,2.29
+2016,Food Service,Shift Lead,Fresno,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Assembler,San Jose,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Machine Operator,Oakland,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Welder,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Quality Inspector,Stockton,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Forklift Operator,Riverside,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Production Worker,Modesto,Full-time,10.0,246.0,2.29
+2016,Manufacturing,Packaging Technician,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Healthcare,Medical Assistant,San Diego,Full-time,10.0,246.0,2.29
+2016,Healthcare,Receptionist,Sacramento,Full-time,10.0,246.0,2.29
+2016,Healthcare,Pharmacy Technician,Fresno,Full-time,10.0,246.0,2.29
+2016,Healthcare,Caregiver,San Jose,Full-time,10.0,246.0,2.29
+2016,Healthcare,Lab Assistant,Oakland,Full-time,10.0,246.0,2.29
+2016,Healthcare,Billing Clerk,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Healthcare,EMT,Stockton,Full-time,10.0,246.0,2.29
+2016,Construction,Laborer,Riverside,Full-time,10.0,246.0,2.29
+2016,Construction,Carpenter,Modesto,Full-time,10.0,246.0,2.29
+2016,Construction,Electrician Helper,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Construction,Painter,San Diego,Full-time,10.0,246.0,2.29
+2016,Construction,Equipment Operator,Sacramento,Full-time,10.0,246.0,2.29
+2016,Construction,Concrete Worker,Fresno,Full-time,10.0,246.0,2.29
+2016,Construction,Estimator,San Jose,Full-time,10.0,246.0,2.29
+2016,Education,Teacher Aide,Oakland,Full-time,10.0,246.0,2.29
+2016,Education,Office Assistant,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Education,Tutor,Stockton,Full-time,10.0,246.0,2.29
+2016,Education,Librarian Assistant,Riverside,Full-time,10.0,246.0,2.29
+2016,Education,Registrar Clerk,Modesto,Full-time,10.0,246.0,2.29
+2016,Education,Campus Technician,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Education,Custodian,San Diego,Full-time,10.0,246.0,2.29
+2016,Transportation,Driver,Sacramento,Full-time,10.0,246.0,2.29
+2016,Transportation,Dispatcher,Fresno,Full-time,10.0,246.0,2.29
+2016,Transportation,Warehouse Associate,San Jose,Full-time,10.0,246.0,2.29
+2016,Transportation,Logistics Coordinator,Oakland,Full-time,10.0,246.0,2.29
+2016,Transportation,Delivery Driver,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Transportation,Fleet Clerk,Stockton,Full-time,10.0,246.0,2.29
+2016,Transportation,Shipping Clerk,Riverside,Full-time,10.0,246.0,2.29
+2016,Finance,Bank Teller,Modesto,Full-time,10.0,246.0,2.29
+2016,Finance,Loan Assistant,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Finance,Accounting Clerk,San Diego,Full-time,10.0,246.0,2.29
+2016,Finance,Payroll Specialist,Sacramento,Full-time,10.0,246.0,2.29
+2016,Finance,Data Entry Clerk,Fresno,Full-time,10.0,246.0,2.29
+2016,Finance,Financial Assistant,San Jose,Full-time,10.0,246.0,2.29
+2016,Finance,Collections Agent,Oakland,Full-time,10.0,246.0,2.29
+2016,Technology,Help Desk Technician,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Technology,IT Support,Stockton,Full-time,10.0,246.0,2.29
+2016,Technology,QA Tester,Riverside,Full-time,10.0,246.0,2.29
+2016,Technology,Junior Analyst,Modesto,Full-time,10.0,246.0,2.29
+2016,Technology,Data Technician,Los Angeles,Full-time,10.0,246.0,2.29
+2016,Technology,Network Assistant,San Diego,Full-time,10.0,246.0,2.29
+2016,Technology,Software Support,Sacramento,Full-time,10.0,246.0,2.29
+2016,Hospitality,Front Desk Clerk,Fresno,Full-time,10.0,246.0,2.29
+2016,Hospitality,Housekeeper,San Jose,Full-time,10.0,246.0,2.29
+2016,Hospitality,Event Coordinator,Oakland,Full-time,10.0,246.0,2.29
+2016,Hospitality,Concierge,Bakersfield,Full-time,10.0,246.0,2.29
+2016,Hospitality,Bellhop,Stockton,Full-time,10.0,246.0,2.29
+2016,Hospitality,Reservation Agent,Riverside,Full-time,10.0,246.0,2.29
+2016,Hospitality,Night Auditor,Modesto,Full-time,10.0,246.0,2.29
+2017,Retail,Cashier,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Retail,Sales Associate,San Diego,Full-time,10.5,252.9,2.8
+2017,Retail,Stock Clerk,Sacramento,Full-time,10.5,252.9,2.8
+2017,Retail,Store Supervisor,Fresno,Full-time,10.5,252.9,2.8
+2017,Retail,Customer Service Rep,San Jose,Full-time,10.5,252.9,2.8
+2017,Retail,Inventory Clerk,Oakland,Full-time,10.5,252.9,2.8
+2017,Retail,Visual Merchandiser,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Food Service,Cook,Stockton,Full-time,10.5,252.9,2.8
+2017,Food Service,Server,Riverside,Full-time,10.5,252.9,2.8
+2017,Food Service,Barista,Modesto,Full-time,10.5,252.9,2.8
+2017,Food Service,Dishwasher,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Food Service,Host,San Diego,Full-time,10.5,252.9,2.8
+2017,Food Service,Kitchen Assistant,Sacramento,Full-time,10.5,252.9,2.8
+2017,Food Service,Shift Lead,Fresno,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Assembler,San Jose,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Machine Operator,Oakland,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Welder,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Quality Inspector,Stockton,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Forklift Operator,Riverside,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Production Worker,Modesto,Full-time,10.5,252.9,2.8
+2017,Manufacturing,Packaging Technician,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Healthcare,Medical Assistant,San Diego,Full-time,10.5,252.9,2.8
+2017,Healthcare,Receptionist,Sacramento,Full-time,10.5,252.9,2.8
+2017,Healthcare,Pharmacy Technician,Fresno,Full-time,10.5,252.9,2.8
+2017,Healthcare,Caregiver,San Jose,Full-time,10.5,252.9,2.8
+2017,Healthcare,Lab Assistant,Oakland,Full-time,10.5,252.9,2.8
+2017,Healthcare,Billing Clerk,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Healthcare,EMT,Stockton,Full-time,10.5,252.9,2.8
+2017,Construction,Laborer,Riverside,Full-time,10.5,252.9,2.8
+2017,Construction,Carpenter,Modesto,Full-time,10.5,252.9,2.8
+2017,Construction,Electrician Helper,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Construction,Painter,San Diego,Full-time,10.5,252.9,2.8
+2017,Construction,Equipment Operator,Sacramento,Full-time,10.5,252.9,2.8
+2017,Construction,Concrete Worker,Fresno,Full-time,10.5,252.9,2.8
+2017,Construction,Estimator,San Jose,Full-time,10.5,252.9,2.8
+2017,Education,Teacher Aide,Oakland,Full-time,10.5,252.9,2.8
+2017,Education,Office Assistant,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Education,Tutor,Stockton,Full-time,10.5,252.9,2.8
+2017,Education,Librarian Assistant,Riverside,Full-time,10.5,252.9,2.8
+2017,Education,Registrar Clerk,Modesto,Full-time,10.5,252.9,2.8
+2017,Education,Campus Technician,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Education,Custodian,San Diego,Full-time,10.5,252.9,2.8
+2017,Transportation,Driver,Sacramento,Full-time,10.5,252.9,2.8
+2017,Transportation,Dispatcher,Fresno,Full-time,10.5,252.9,2.8
+2017,Transportation,Warehouse Associate,San Jose,Full-time,10.5,252.9,2.8
+2017,Transportation,Logistics Coordinator,Oakland,Full-time,10.5,252.9,2.8
+2017,Transportation,Delivery Driver,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Transportation,Fleet Clerk,Stockton,Full-time,10.5,252.9,2.8
+2017,Transportation,Shipping Clerk,Riverside,Full-time,10.5,252.9,2.8
+2017,Finance,Bank Teller,Modesto,Full-time,10.5,252.9,2.8
+2017,Finance,Loan Assistant,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Finance,Accounting Clerk,San Diego,Full-time,10.5,252.9,2.8
+2017,Finance,Payroll Specialist,Sacramento,Full-time,10.5,252.9,2.8
+2017,Finance,Data Entry Clerk,Fresno,Full-time,10.5,252.9,2.8
+2017,Finance,Financial Assistant,San Jose,Full-time,10.5,252.9,2.8
+2017,Finance,Collections Agent,Oakland,Full-time,10.5,252.9,2.8
+2017,Technology,Help Desk Technician,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Technology,IT Support,Stockton,Full-time,10.5,252.9,2.8
+2017,Technology,QA Tester,Riverside,Full-time,10.5,252.9,2.8
+2017,Technology,Junior Analyst,Modesto,Full-time,10.5,252.9,2.8
+2017,Technology,Data Technician,Los Angeles,Full-time,10.5,252.9,2.8
+2017,Technology,Network Assistant,San Diego,Full-time,10.5,252.9,2.8
+2017,Technology,Software Support,Sacramento,Full-time,10.5,252.9,2.8
+2017,Hospitality,Front Desk Clerk,Fresno,Full-time,10.5,252.9,2.8
+2017,Hospitality,Housekeeper,San Jose,Full-time,10.5,252.9,2.8
+2017,Hospitality,Event Coordinator,Oakland,Full-time,10.5,252.9,2.8
+2017,Hospitality,Concierge,Bakersfield,Full-time,10.5,252.9,2.8
+2017,Hospitality,Bellhop,Stockton,Full-time,10.5,252.9,2.8
+2017,Hospitality,Reservation Agent,Riverside,Full-time,10.5,252.9,2.8
+2017,Hospitality,Night Auditor,Modesto,Full-time,10.5,252.9,2.8
+2018,Retail,Cashier,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Retail,Sales Associate,San Diego,Full-time,11.0,261.0,3.2
+2018,Retail,Stock Clerk,Sacramento,Full-time,11.0,261.0,3.2
+2018,Retail,Store Supervisor,Fresno,Full-time,11.0,261.0,3.2
+2018,Retail,Customer Service Rep,San Jose,Full-time,11.0,261.0,3.2
+2018,Retail,Inventory Clerk,Oakland,Full-time,11.0,261.0,3.2
+2018,Retail,Visual Merchandiser,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Food Service,Cook,Stockton,Full-time,11.0,261.0,3.2
+2018,Food Service,Server,Riverside,Full-time,11.0,261.0,3.2
+2018,Food Service,Barista,Modesto,Full-time,11.0,261.0,3.2
+2018,Food Service,Dishwasher,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Food Service,Host,San Diego,Full-time,11.0,261.0,3.2
+2018,Food Service,Kitchen Assistant,Sacramento,Full-time,11.0,261.0,3.2
+2018,Food Service,Shift Lead,Fresno,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Assembler,San Jose,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Machine Operator,Oakland,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Welder,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Quality Inspector,Stockton,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Forklift Operator,Riverside,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Production Worker,Modesto,Full-time,11.0,261.0,3.2
+2018,Manufacturing,Packaging Technician,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Healthcare,Medical Assistant,San Diego,Full-time,11.0,261.0,3.2
+2018,Healthcare,Receptionist,Sacramento,Full-time,11.0,261.0,3.2
+2018,Healthcare,Pharmacy Technician,Fresno,Full-time,11.0,261.0,3.2
+2018,Healthcare,Caregiver,San Jose,Full-time,11.0,261.0,3.2
+2018,Healthcare,Lab Assistant,Oakland,Full-time,11.0,261.0,3.2
+2018,Healthcare,Billing Clerk,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Healthcare,EMT,Stockton,Full-time,11.0,261.0,3.2
+2018,Construction,Laborer,Riverside,Full-time,11.0,261.0,3.2
+2018,Construction,Carpenter,Modesto,Full-time,11.0,261.0,3.2
+2018,Construction,Electrician Helper,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Construction,Painter,San Diego,Full-time,11.0,261.0,3.2
+2018,Construction,Equipment Operator,Sacramento,Full-time,11.0,261.0,3.2
+2018,Construction,Concrete Worker,Fresno,Full-time,11.0,261.0,3.2
+2018,Construction,Estimator,San Jose,Full-time,11.0,261.0,3.2
+2018,Education,Teacher Aide,Oakland,Full-time,11.0,261.0,3.2
+2018,Education,Office Assistant,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Education,Tutor,Stockton,Full-time,11.0,261.0,3.2
+2018,Education,Librarian Assistant,Riverside,Full-time,11.0,261.0,3.2
+2018,Education,Registrar Clerk,Modesto,Full-time,11.0,261.0,3.2
+2018,Education,Campus Technician,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Education,Custodian,San Diego,Full-time,11.0,261.0,3.2
+2018,Transportation,Driver,Sacramento,Full-time,11.0,261.0,3.2
+2018,Transportation,Dispatcher,Fresno,Full-time,11.0,261.0,3.2
+2018,Transportation,Warehouse Associate,San Jose,Full-time,11.0,261.0,3.2
+2018,Transportation,Logistics Coordinator,Oakland,Full-time,11.0,261.0,3.2
+2018,Transportation,Delivery Driver,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Transportation,Fleet Clerk,Stockton,Full-time,11.0,261.0,3.2
+2018,Transportation,Shipping Clerk,Riverside,Full-time,11.0,261.0,3.2
+2018,Finance,Bank Teller,Modesto,Full-time,11.0,261.0,3.2
+2018,Finance,Loan Assistant,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Finance,Accounting Clerk,San Diego,Full-time,11.0,261.0,3.2
+2018,Finance,Payroll Specialist,Sacramento,Full-time,11.0,261.0,3.2
+2018,Finance,Data Entry Clerk,Fresno,Full-time,11.0,261.0,3.2
+2018,Finance,Financial Assistant,San Jose,Full-time,11.0,261.0,3.2
+2018,Finance,Collections Agent,Oakland,Full-time,11.0,261.0,3.2
+2018,Technology,Help Desk Technician,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Technology,IT Support,Stockton,Full-time,11.0,261.0,3.2
+2018,Technology,QA Tester,Riverside,Full-time,11.0,261.0,3.2
+2018,Technology,Junior Analyst,Modesto,Full-time,11.0,261.0,3.2
+2018,Technology,Data Technician,Los Angeles,Full-time,11.0,261.0,3.2
+2018,Technology,Network Assistant,San Diego,Full-time,11.0,261.0,3.2
+2018,Technology,Software Support,Sacramento,Full-time,11.0,261.0,3.2
+2018,Hospitality,Front Desk Clerk,Fresno,Full-time,11.0,261.0,3.2
+2018,Hospitality,Housekeeper,San Jose,Full-time,11.0,261.0,3.2
+2018,Hospitality,Event Coordinator,Oakland,Full-time,11.0,261.0,3.2
+2018,Hospitality,Concierge,Bakersfield,Full-time,11.0,261.0,3.2
+2018,Hospitality,Bellhop,Stockton,Full-time,11.0,261.0,3.2
+2018,Hospitality,Reservation Agent,Riverside,Full-time,11.0,261.0,3.2
+2018,Hospitality,Night Auditor,Modesto,Full-time,11.0,261.0,3.2
+2019,Retail,Cashier,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Retail,Sales Associate,San Diego,Full-time,12.0,267.9,2.64
+2019,Retail,Stock Clerk,Sacramento,Full-time,12.0,267.9,2.64
+2019,Retail,Store Supervisor,Fresno,Full-time,12.0,267.9,2.64
+2019,Retail,Customer Service Rep,San Jose,Full-time,12.0,267.9,2.64
+2019,Retail,Inventory Clerk,Oakland,Full-time,12.0,267.9,2.64
+2019,Retail,Visual Merchandiser,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Food Service,Cook,Stockton,Full-time,12.0,267.9,2.64
+2019,Food Service,Server,Riverside,Full-time,12.0,267.9,2.64
+2019,Food Service,Barista,Modesto,Full-time,12.0,267.9,2.64
+2019,Food Service,Dishwasher,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Food Service,Host,San Diego,Full-time,12.0,267.9,2.64
+2019,Food Service,Kitchen Assistant,Sacramento,Full-time,12.0,267.9,2.64
+2019,Food Service,Shift Lead,Fresno,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Assembler,San Jose,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Machine Operator,Oakland,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Welder,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Quality Inspector,Stockton,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Forklift Operator,Riverside,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Production Worker,Modesto,Full-time,12.0,267.9,2.64
+2019,Manufacturing,Packaging Technician,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Healthcare,Medical Assistant,San Diego,Full-time,12.0,267.9,2.64
+2019,Healthcare,Receptionist,Sacramento,Full-time,12.0,267.9,2.64
+2019,Healthcare,Pharmacy Technician,Fresno,Full-time,12.0,267.9,2.64
+2019,Healthcare,Caregiver,San Jose,Full-time,12.0,267.9,2.64
+2019,Healthcare,Lab Assistant,Oakland,Full-time,12.0,267.9,2.64
+2019,Healthcare,Billing Clerk,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Healthcare,EMT,Stockton,Full-time,12.0,267.9,2.64
+2019,Construction,Laborer,Riverside,Full-time,12.0,267.9,2.64
+2019,Construction,Carpenter,Modesto,Full-time,12.0,267.9,2.64
+2019,Construction,Electrician Helper,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Construction,Painter,San Diego,Full-time,12.0,267.9,2.64
+2019,Construction,Equipment Operator,Sacramento,Full-time,12.0,267.9,2.64
+2019,Construction,Concrete Worker,Fresno,Full-time,12.0,267.9,2.64
+2019,Construction,Estimator,San Jose,Full-time,12.0,267.9,2.64
+2019,Education,Teacher Aide,Oakland,Full-time,12.0,267.9,2.64
+2019,Education,Office Assistant,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Education,Tutor,Stockton,Full-time,12.0,267.9,2.64
+2019,Education,Librarian Assistant,Riverside,Full-time,12.0,267.9,2.64
+2019,Education,Registrar Clerk,Modesto,Full-time,12.0,267.9,2.64
+2019,Education,Campus Technician,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Education,Custodian,San Diego,Full-time,12.0,267.9,2.64
+2019,Transportation,Driver,Sacramento,Full-time,12.0,267.9,2.64
+2019,Transportation,Dispatcher,Fresno,Full-time,12.0,267.9,2.64
+2019,Transportation,Warehouse Associate,San Jose,Full-time,12.0,267.9,2.64
+2019,Transportation,Logistics Coordinator,Oakland,Full-time,12.0,267.9,2.64
+2019,Transportation,Delivery Driver,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Transportation,Fleet Clerk,Stockton,Full-time,12.0,267.9,2.64
+2019,Transportation,Shipping Clerk,Riverside,Full-time,12.0,267.9,2.64
+2019,Finance,Bank Teller,Modesto,Full-time,12.0,267.9,2.64
+2019,Finance,Loan Assistant,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Finance,Accounting Clerk,San Diego,Full-time,12.0,267.9,2.64
+2019,Finance,Payroll Specialist,Sacramento,Full-time,12.0,267.9,2.64
+2019,Finance,Data Entry Clerk,Fresno,Full-time,12.0,267.9,2.64
+2019,Finance,Financial Assistant,San Jose,Full-time,12.0,267.9,2.64
+2019,Finance,Collections Agent,Oakland,Full-time,12.0,267.9,2.64
+2019,Technology,Help Desk Technician,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Technology,IT Support,Stockton,Full-time,12.0,267.9,2.64
+2019,Technology,QA Tester,Riverside,Full-time,12.0,267.9,2.64
+2019,Technology,Junior Analyst,Modesto,Full-time,12.0,267.9,2.64
+2019,Technology,Data Technician,Los Angeles,Full-time,12.0,267.9,2.64
+2019,Technology,Network Assistant,San Diego,Full-time,12.0,267.9,2.64
+2019,Technology,Software Support,Sacramento,Full-time,12.0,267.9,2.64
+2019,Hospitality,Front Desk Clerk,Fresno,Full-time,12.0,267.9,2.64
+2019,Hospitality,Housekeeper,San Jose,Full-time,12.0,267.9,2.64
+2019,Hospitality,Event Coordinator,Oakland,Full-time,12.0,267.9,2.64
+2019,Hospitality,Concierge,Bakersfield,Full-time,12.0,267.9,2.64
+2019,Hospitality,Bellhop,Stockton,Full-time,12.0,267.9,2.64
+2019,Hospitality,Reservation Agent,Riverside,Full-time,12.0,267.9,2.64
+2019,Hospitality,Night Auditor,Modesto,Full-time,12.0,267.9,2.64
+2020,Retail,Cashier,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Retail,Sales Associate,San Diego,Full-time,13.0,272.2,1.61
+2020,Retail,Stock Clerk,Sacramento,Full-time,13.0,272.2,1.61
+2020,Retail,Store Supervisor,Fresno,Full-time,13.0,272.2,1.61
+2020,Retail,Customer Service Rep,San Jose,Full-time,13.0,272.2,1.61
+2020,Retail,Inventory Clerk,Oakland,Full-time,13.0,272.2,1.61
+2020,Retail,Visual Merchandiser,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Food Service,Cook,Stockton,Full-time,13.0,272.2,1.61
+2020,Food Service,Server,Riverside,Full-time,13.0,272.2,1.61
+2020,Food Service,Barista,Modesto,Full-time,13.0,272.2,1.61
+2020,Food Service,Dishwasher,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Food Service,Host,San Diego,Full-time,13.0,272.2,1.61
+2020,Food Service,Kitchen Assistant,Sacramento,Full-time,13.0,272.2,1.61
+2020,Food Service,Shift Lead,Fresno,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Assembler,San Jose,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Machine Operator,Oakland,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Welder,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Quality Inspector,Stockton,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Forklift Operator,Riverside,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Production Worker,Modesto,Full-time,13.0,272.2,1.61
+2020,Manufacturing,Packaging Technician,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Healthcare,Medical Assistant,San Diego,Full-time,13.0,272.2,1.61
+2020,Healthcare,Receptionist,Sacramento,Full-time,13.0,272.2,1.61
+2020,Healthcare,Pharmacy Technician,Fresno,Full-time,13.0,272.2,1.61
+2020,Healthcare,Caregiver,San Jose,Full-time,13.0,272.2,1.61
+2020,Healthcare,Lab Assistant,Oakland,Full-time,13.0,272.2,1.61
+2020,Healthcare,Billing Clerk,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Healthcare,EMT,Stockton,Full-time,13.0,272.2,1.61
+2020,Construction,Laborer,Riverside,Full-time,13.0,272.2,1.61
+2020,Construction,Carpenter,Modesto,Full-time,13.0,272.2,1.61
+2020,Construction,Electrician Helper,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Construction,Painter,San Diego,Full-time,13.0,272.2,1.61
+2020,Construction,Equipment Operator,Sacramento,Full-time,13.0,272.2,1.61
+2020,Construction,Concrete Worker,Fresno,Full-time,13.0,272.2,1.61
+2020,Construction,Estimator,San Jose,Full-time,13.0,272.2,1.61
+2020,Education,Teacher Aide,Oakland,Full-time,13.0,272.2,1.61
+2020,Education,Office Assistant,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Education,Tutor,Stockton,Full-time,13.0,272.2,1.61
+2020,Education,Librarian Assistant,Riverside,Full-time,13.0,272.2,1.61
+2020,Education,Registrar Clerk,Modesto,Full-time,13.0,272.2,1.61
+2020,Education,Campus Technician,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Education,Custodian,San Diego,Full-time,13.0,272.2,1.61
+2020,Transportation,Driver,Sacramento,Full-time,13.0,272.2,1.61
+2020,Transportation,Dispatcher,Fresno,Full-time,13.0,272.2,1.61
+2020,Transportation,Warehouse Associate,San Jose,Full-time,13.0,272.2,1.61
+2020,Transportation,Logistics Coordinator,Oakland,Full-time,13.0,272.2,1.61
+2020,Transportation,Delivery Driver,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Transportation,Fleet Clerk,Stockton,Full-time,13.0,272.2,1.61
+2020,Transportation,Shipping Clerk,Riverside,Full-time,13.0,272.2,1.61
+2020,Finance,Bank Teller,Modesto,Full-time,13.0,272.2,1.61
+2020,Finance,Loan Assistant,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Finance,Accounting Clerk,San Diego,Full-time,13.0,272.2,1.61
+2020,Finance,Payroll Specialist,Sacramento,Full-time,13.0,272.2,1.61
+2020,Finance,Data Entry Clerk,Fresno,Full-time,13.0,272.2,1.61
+2020,Finance,Financial Assistant,San Jose,Full-time,13.0,272.2,1.61
+2020,Finance,Collections Agent,Oakland,Full-time,13.0,272.2,1.61
+2020,Technology,Help Desk Technician,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Technology,IT Support,Stockton,Full-time,13.0,272.2,1.61
+2020,Technology,QA Tester,Riverside,Full-time,13.0,272.2,1.61
+2020,Technology,Junior Analyst,Modesto,Full-time,13.0,272.2,1.61
+2020,Technology,Data Technician,Los Angeles,Full-time,13.0,272.2,1.61
+2020,Technology,Network Assistant,San Diego,Full-time,13.0,272.2,1.61
+2020,Technology,Software Support,Sacramento,Full-time,13.0,272.2,1.61
+2020,Hospitality,Front Desk Clerk,Fresno,Full-time,13.0,272.2,1.61
+2020,Hospitality,Housekeeper,San Jose,Full-time,13.0,272.2,1.61
+2020,Hospitality,Event Coordinator,Oakland,Full-time,13.0,272.2,1.61
+2020,Hospitality,Concierge,Bakersfield,Full-time,13.0,272.2,1.61
+2020,Hospitality,Bellhop,Stockton,Full-time,13.0,272.2,1.61
+2020,Hospitality,Reservation Agent,Riverside,Full-time,13.0,272.2,1.61
+2020,Hospitality,Night Auditor,Modesto,Full-time,13.0,272.2,1.61
+2021,Retail,Cashier,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Retail,Sales Associate,San Diego,Full-time,14.0,287.6,5.66
+2021,Retail,Stock Clerk,Sacramento,Full-time,14.0,287.6,5.66
+2021,Retail,Store Supervisor,Fresno,Full-time,14.0,287.6,5.66
+2021,Retail,Customer Service Rep,San Jose,Full-time,14.0,287.6,5.66
+2021,Retail,Inventory Clerk,Oakland,Full-time,14.0,287.6,5.66
+2021,Retail,Visual Merchandiser,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Food Service,Cook,Stockton,Full-time,14.0,287.6,5.66
+2021,Food Service,Server,Riverside,Full-time,14.0,287.6,5.66
+2021,Food Service,Barista,Modesto,Full-time,14.0,287.6,5.66
+2021,Food Service,Dishwasher,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Food Service,Host,San Diego,Full-time,14.0,287.6,5.66
+2021,Food Service,Kitchen Assistant,Sacramento,Full-time,14.0,287.6,5.66
+2021,Food Service,Shift Lead,Fresno,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Assembler,San Jose,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Machine Operator,Oakland,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Welder,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Quality Inspector,Stockton,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Forklift Operator,Riverside,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Production Worker,Modesto,Full-time,14.0,287.6,5.66
+2021,Manufacturing,Packaging Technician,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Healthcare,Medical Assistant,San Diego,Full-time,14.0,287.6,5.66
+2021,Healthcare,Receptionist,Sacramento,Full-time,14.0,287.6,5.66
+2021,Healthcare,Pharmacy Technician,Fresno,Full-time,14.0,287.6,5.66
+2021,Healthcare,Caregiver,San Jose,Full-time,14.0,287.6,5.66
+2021,Healthcare,Lab Assistant,Oakland,Full-time,14.0,287.6,5.66
+2021,Healthcare,Billing Clerk,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Healthcare,EMT,Stockton,Full-time,14.0,287.6,5.66
+2021,Construction,Laborer,Riverside,Full-time,14.0,287.6,5.66
+2021,Construction,Carpenter,Modesto,Full-time,14.0,287.6,5.66
+2021,Construction,Electrician Helper,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Construction,Painter,San Diego,Full-time,14.0,287.6,5.66
+2021,Construction,Equipment Operator,Sacramento,Full-time,14.0,287.6,5.66
+2021,Construction,Concrete Worker,Fresno,Full-time,14.0,287.6,5.66
+2021,Construction,Estimator,San Jose,Full-time,14.0,287.6,5.66
+2021,Education,Teacher Aide,Oakland,Full-time,14.0,287.6,5.66
+2021,Education,Office Assistant,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Education,Tutor,Stockton,Full-time,14.0,287.6,5.66
+2021,Education,Librarian Assistant,Riverside,Full-time,14.0,287.6,5.66
+2021,Education,Registrar Clerk,Modesto,Full-time,14.0,287.6,5.66
+2021,Education,Campus Technician,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Education,Custodian,San Diego,Full-time,14.0,287.6,5.66
+2021,Transportation,Driver,Sacramento,Full-time,14.0,287.6,5.66
+2021,Transportation,Dispatcher,Fresno,Full-time,14.0,287.6,5.66
+2021,Transportation,Warehouse Associate,San Jose,Full-time,14.0,287.6,5.66
+2021,Transportation,Logistics Coordinator,Oakland,Full-time,14.0,287.6,5.66
+2021,Transportation,Delivery Driver,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Transportation,Fleet Clerk,Stockton,Full-time,14.0,287.6,5.66
+2021,Transportation,Shipping Clerk,Riverside,Full-time,14.0,287.6,5.66
+2021,Finance,Bank Teller,Modesto,Full-time,14.0,287.6,5.66
+2021,Finance,Loan Assistant,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Finance,Accounting Clerk,San Diego,Full-time,14.0,287.6,5.66
+2021,Finance,Payroll Specialist,Sacramento,Full-time,14.0,287.6,5.66
+2021,Finance,Data Entry Clerk,Fresno,Full-time,14.0,287.6,5.66
+2021,Finance,Financial Assistant,San Jose,Full-time,14.0,287.6,5.66
+2021,Finance,Collections Agent,Oakland,Full-time,14.0,287.6,5.66
+2021,Technology,Help Desk Technician,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Technology,IT Support,Stockton,Full-time,14.0,287.6,5.66
+2021,Technology,QA Tester,Riverside,Full-time,14.0,287.6,5.66
+2021,Technology,Junior Analyst,Modesto,Full-time,14.0,287.6,5.66
+2021,Technology,Data Technician,Los Angeles,Full-time,14.0,287.6,5.66
+2021,Technology,Network Assistant,San Diego,Full-time,14.0,287.6,5.66
+2021,Technology,Software Support,Sacramento,Full-time,14.0,287.6,5.66
+2021,Hospitality,Front Desk Clerk,Fresno,Full-time,14.0,287.6,5.66
+2021,Hospitality,Housekeeper,San Jose,Full-time,14.0,287.6,5.66
+2021,Hospitality,Event Coordinator,Oakland,Full-time,14.0,287.6,5.66
+2021,Hospitality,Concierge,Bakersfield,Full-time,14.0,287.6,5.66
+2021,Hospitality,Bellhop,Stockton,Full-time,14.0,287.6,5.66
+2021,Hospitality,Reservation Agent,Riverside,Full-time,14.0,287.6,5.66
+2021,Hospitality,Night Auditor,Modesto,Full-time,14.0,287.6,5.66
+2022,Retail,Cashier,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Retail,Sales Associate,San Diego,Full-time,15.0,313.7,9.08
+2022,Retail,Stock Clerk,Sacramento,Full-time,15.0,313.7,9.08
+2022,Retail,Store Supervisor,Fresno,Full-time,15.0,313.7,9.08
+2022,Retail,Customer Service Rep,San Jose,Full-time,15.0,313.7,9.08
+2022,Retail,Inventory Clerk,Oakland,Full-time,15.0,313.7,9.08
+2022,Retail,Visual Merchandiser,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Food Service,Cook,Stockton,Full-time,15.0,313.7,9.08
+2022,Food Service,Server,Riverside,Full-time,15.0,313.7,9.08
+2022,Food Service,Barista,Modesto,Full-time,15.0,313.7,9.08
+2022,Food Service,Dishwasher,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Food Service,Host,San Diego,Full-time,15.0,313.7,9.08
+2022,Food Service,Kitchen Assistant,Sacramento,Full-time,15.0,313.7,9.08
+2022,Food Service,Shift Lead,Fresno,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Assembler,San Jose,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Machine Operator,Oakland,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Welder,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Quality Inspector,Stockton,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Forklift Operator,Riverside,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Production Worker,Modesto,Full-time,15.0,313.7,9.08
+2022,Manufacturing,Packaging Technician,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Healthcare,Medical Assistant,San Diego,Full-time,15.0,313.7,9.08
+2022,Healthcare,Receptionist,Sacramento,Full-time,15.0,313.7,9.08
+2022,Healthcare,Pharmacy Technician,Fresno,Full-time,15.0,313.7,9.08
+2022,Healthcare,Caregiver,San Jose,Full-time,15.0,313.7,9.08
+2022,Healthcare,Lab Assistant,Oakland,Full-time,15.0,313.7,9.08
+2022,Healthcare,Billing Clerk,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Healthcare,EMT,Stockton,Full-time,15.0,313.7,9.08
+2022,Construction,Laborer,Riverside,Full-time,15.0,313.7,9.08
+2022,Construction,Carpenter,Modesto,Full-time,15.0,313.7,9.08
+2022,Construction,Electrician Helper,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Construction,Painter,San Diego,Full-time,15.0,313.7,9.08
+2022,Construction,Equipment Operator,Sacramento,Full-time,15.0,313.7,9.08
+2022,Construction,Concrete Worker,Fresno,Full-time,15.0,313.7,9.08
+2022,Construction,Estimator,San Jose,Full-time,15.0,313.7,9.08
+2022,Education,Teacher Aide,Oakland,Full-time,15.0,313.7,9.08
+2022,Education,Office Assistant,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Education,Tutor,Stockton,Full-time,15.0,313.7,9.08
+2022,Education,Librarian Assistant,Riverside,Full-time,15.0,313.7,9.08
+2022,Education,Registrar Clerk,Modesto,Full-time,15.0,313.7,9.08
+2022,Education,Campus Technician,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Education,Custodian,San Diego,Full-time,15.0,313.7,9.08
+2022,Transportation,Driver,Sacramento,Full-time,15.0,313.7,9.08
+2022,Transportation,Dispatcher,Fresno,Full-time,15.0,313.7,9.08
+2022,Transportation,Warehouse Associate,San Jose,Full-time,15.0,313.7,9.08
+2022,Transportation,Logistics Coordinator,Oakland,Full-time,15.0,313.7,9.08
+2022,Transportation,Delivery Driver,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Transportation,Fleet Clerk,Stockton,Full-time,15.0,313.7,9.08
+2022,Transportation,Shipping Clerk,Riverside,Full-time,15.0,313.7,9.08
+2022,Finance,Bank Teller,Modesto,Full-time,15.0,313.7,9.08
+2022,Finance,Loan Assistant,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Finance,Accounting Clerk,San Diego,Full-time,15.0,313.7,9.08
+2022,Finance,Payroll Specialist,Sacramento,Full-time,15.0,313.7,9.08
+2022,Finance,Data Entry Clerk,Fresno,Full-time,15.0,313.7,9.08
+2022,Finance,Financial Assistant,San Jose,Full-time,15.0,313.7,9.08
+2022,Finance,Collections Agent,Oakland,Full-time,15.0,313.7,9.08
+2022,Technology,Help Desk Technician,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Technology,IT Support,Stockton,Full-time,15.0,313.7,9.08
+2022,Technology,QA Tester,Riverside,Full-time,15.0,313.7,9.08
+2022,Technology,Junior Analyst,Modesto,Full-time,15.0,313.7,9.08
+2022,Technology,Data Technician,Los Angeles,Full-time,15.0,313.7,9.08
+2022,Technology,Network Assistant,San Diego,Full-time,15.0,313.7,9.08
+2022,Technology,Software Support,Sacramento,Full-time,15.0,313.7,9.08
+2022,Hospitality,Front Desk Clerk,Fresno,Full-time,15.0,313.7,9.08
+2022,Hospitality,Housekeeper,San Jose,Full-time,15.0,313.7,9.08
+2022,Hospitality,Event Coordinator,Oakland,Full-time,15.0,313.7,9.08
+2022,Hospitality,Concierge,Bakersfield,Full-time,15.0,313.7,9.08
+2022,Hospitality,Bellhop,Stockton,Full-time,15.0,313.7,9.08
+2022,Hospitality,Reservation Agent,Riverside,Full-time,15.0,313.7,9.08
+2022,Hospitality,Night Auditor,Modesto,Full-time,15.0,313.7,9.08
+2023,Retail,Cashier,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Retail,Sales Associate,San Diego,Full-time,15.5,325.4,3.73
+2023,Retail,Stock Clerk,Sacramento,Full-time,15.5,325.4,3.73
+2023,Retail,Store Supervisor,Fresno,Full-time,15.5,325.4,3.73
+2023,Retail,Customer Service Rep,San Jose,Full-time,15.5,325.4,3.73
+2023,Retail,Inventory Clerk,Oakland,Full-time,15.5,325.4,3.73
+2023,Retail,Visual Merchandiser,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Food Service,Cook,Stockton,Full-time,15.5,325.4,3.73
+2023,Food Service,Server,Riverside,Full-time,15.5,325.4,3.73
+2023,Food Service,Barista,Modesto,Full-time,15.5,325.4,3.73
+2023,Food Service,Dishwasher,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Food Service,Host,San Diego,Full-time,15.5,325.4,3.73
+2023,Food Service,Kitchen Assistant,Sacramento,Full-time,15.5,325.4,3.73
+2023,Food Service,Shift Lead,Fresno,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Assembler,San Jose,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Machine Operator,Oakland,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Welder,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Quality Inspector,Stockton,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Forklift Operator,Riverside,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Production Worker,Modesto,Full-time,15.5,325.4,3.73
+2023,Manufacturing,Packaging Technician,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Healthcare,Medical Assistant,San Diego,Full-time,15.5,325.4,3.73
+2023,Healthcare,Receptionist,Sacramento,Full-time,15.5,325.4,3.73
+2023,Healthcare,Pharmacy Technician,Fresno,Full-time,15.5,325.4,3.73
+2023,Healthcare,Caregiver,San Jose,Full-time,15.5,325.4,3.73
+2023,Healthcare,Lab Assistant,Oakland,Full-time,15.5,325.4,3.73
+2023,Healthcare,Billing Clerk,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Healthcare,EMT,Stockton,Full-time,15.5,325.4,3.73
+2023,Construction,Laborer,Riverside,Full-time,15.5,325.4,3.73
+2023,Construction,Carpenter,Modesto,Full-time,15.5,325.4,3.73
+2023,Construction,Electrician Helper,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Construction,Painter,San Diego,Full-time,15.5,325.4,3.73
+2023,Construction,Equipment Operator,Sacramento,Full-time,15.5,325.4,3.73
+2023,Construction,Concrete Worker,Fresno,Full-time,15.5,325.4,3.73
+2023,Construction,Estimator,San Jose,Full-time,15.5,325.4,3.73
+2023,Education,Teacher Aide,Oakland,Full-time,15.5,325.4,3.73
+2023,Education,Office Assistant,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Education,Tutor,Stockton,Full-time,15.5,325.4,3.73
+2023,Education,Librarian Assistant,Riverside,Full-time,15.5,325.4,3.73
+2023,Education,Registrar Clerk,Modesto,Full-time,15.5,325.4,3.73
+2023,Education,Campus Technician,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Education,Custodian,San Diego,Full-time,15.5,325.4,3.73
+2023,Transportation,Driver,Sacramento,Full-time,15.5,325.4,3.73
+2023,Transportation,Dispatcher,Fresno,Full-time,15.5,325.4,3.73
+2023,Transportation,Warehouse Associate,San Jose,Full-time,15.5,325.4,3.73
+2023,Transportation,Logistics Coordinator,Oakland,Full-time,15.5,325.4,3.73
+2023,Transportation,Delivery Driver,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Transportation,Fleet Clerk,Stockton,Full-time,15.5,325.4,3.73
+2023,Transportation,Shipping Clerk,Riverside,Full-time,15.5,325.4,3.73
+2023,Finance,Bank Teller,Modesto,Full-time,15.5,325.4,3.73
+2023,Finance,Loan Assistant,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Finance,Accounting Clerk,San Diego,Full-time,15.5,325.4,3.73
+2023,Finance,Payroll Specialist,Sacramento,Full-time,15.5,325.4,3.73
+2023,Finance,Data Entry Clerk,Fresno,Full-time,15.5,325.4,3.73
+2023,Finance,Financial Assistant,San Jose,Full-time,15.5,325.4,3.73
+2023,Finance,Collections Agent,Oakland,Full-time,15.5,325.4,3.73
+2023,Technology,Help Desk Technician,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Technology,IT Support,Stockton,Full-time,15.5,325.4,3.73
+2023,Technology,QA Tester,Riverside,Full-time,15.5,325.4,3.73
+2023,Technology,Junior Analyst,Modesto,Full-time,15.5,325.4,3.73
+2023,Technology,Data Technician,Los Angeles,Full-time,15.5,325.4,3.73
+2023,Technology,Network Assistant,San Diego,Full-time,15.5,325.4,3.73
+2023,Technology,Software Support,Sacramento,Full-time,15.5,325.4,3.73
+2023,Hospitality,Front Desk Clerk,Fresno,Full-time,15.5,325.4,3.73
+2023,Hospitality,Housekeeper,San Jose,Full-time,15.5,325.4,3.73
+2023,Hospitality,Event Coordinator,Oakland,Full-time,15.5,325.4,3.73
+2023,Hospitality,Concierge,Bakersfield,Full-time,15.5,325.4,3.73
+2023,Hospitality,Bellhop,Stockton,Full-time,15.5,325.4,3.73
+2023,Hospitality,Reservation Agent,Riverside,Full-time,15.5,325.4,3.73
+2023,Hospitality,Night Auditor,Modesto,Full-time,15.5,325.4,3.73
+2024,Retail,Cashier,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Retail,Sales Associate,San Diego,Full-time,16.0,336.2,3.32
+2024,Retail,Stock Clerk,Sacramento,Full-time,16.0,336.2,3.32
+2024,Retail,Store Supervisor,Fresno,Full-time,16.0,336.2,3.32
+2024,Retail,Customer Service Rep,San Jose,Full-time,16.0,336.2,3.32
+2024,Retail,Inventory Clerk,Oakland,Full-time,16.0,336.2,3.32
+2024,Retail,Visual Merchandiser,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Food Service,Cook,Stockton,Full-time,16.0,336.2,3.32
+2024,Food Service,Server,Riverside,Full-time,16.0,336.2,3.32
+2024,Food Service,Barista,Modesto,Full-time,16.0,336.2,3.32
+2024,Food Service,Dishwasher,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Food Service,Host,San Diego,Full-time,16.0,336.2,3.32
+2024,Food Service,Kitchen Assistant,Sacramento,Full-time,16.0,336.2,3.32
+2024,Food Service,Shift Lead,Fresno,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Assembler,San Jose,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Machine Operator,Oakland,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Welder,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Quality Inspector,Stockton,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Forklift Operator,Riverside,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Production Worker,Modesto,Full-time,16.0,336.2,3.32
+2024,Manufacturing,Packaging Technician,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Healthcare,Medical Assistant,San Diego,Full-time,16.0,336.2,3.32
+2024,Healthcare,Receptionist,Sacramento,Full-time,16.0,336.2,3.32
+2024,Healthcare,Pharmacy Technician,Fresno,Full-time,16.0,336.2,3.32
+2024,Healthcare,Caregiver,San Jose,Full-time,16.0,336.2,3.32
+2024,Healthcare,Lab Assistant,Oakland,Full-time,16.0,336.2,3.32
+2024,Healthcare,Billing Clerk,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Healthcare,EMT,Stockton,Full-time,16.0,336.2,3.32
+2024,Construction,Laborer,Riverside,Full-time,16.0,336.2,3.32
+2024,Construction,Carpenter,Modesto,Full-time,16.0,336.2,3.32
+2024,Construction,Electrician Helper,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Construction,Painter,San Diego,Full-time,16.0,336.2,3.32
+2024,Construction,Equipment Operator,Sacramento,Full-time,16.0,336.2,3.32
+2024,Construction,Concrete Worker,Fresno,Full-time,16.0,336.2,3.32
+2024,Construction,Estimator,San Jose,Full-time,16.0,336.2,3.32
+2024,Education,Teacher Aide,Oakland,Full-time,16.0,336.2,3.32
+2024,Education,Office Assistant,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Education,Tutor,Stockton,Full-time,16.0,336.2,3.32
+2024,Education,Librarian Assistant,Riverside,Full-time,16.0,336.2,3.32
+2024,Education,Registrar Clerk,Modesto,Full-time,16.0,336.2,3.32
+2024,Education,Campus Technician,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Education,Custodian,San Diego,Full-time,16.0,336.2,3.32
+2024,Transportation,Driver,Sacramento,Full-time,16.0,336.2,3.32
+2024,Transportation,Dispatcher,Fresno,Full-time,16.0,336.2,3.32
+2024,Transportation,Warehouse Associate,San Jose,Full-time,16.0,336.2,3.32
+2024,Transportation,Logistics Coordinator,Oakland,Full-time,16.0,336.2,3.32
+2024,Transportation,Delivery Driver,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Transportation,Fleet Clerk,Stockton,Full-time,16.0,336.2,3.32
+2024,Transportation,Shipping Clerk,Riverside,Full-time,16.0,336.2,3.32
+2024,Finance,Bank Teller,Modesto,Full-time,16.0,336.2,3.32
+2024,Finance,Loan Assistant,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Finance,Accounting Clerk,San Diego,Full-time,16.0,336.2,3.32
+2024,Finance,Payroll Specialist,Sacramento,Full-time,16.0,336.2,3.32
+2024,Finance,Data Entry Clerk,Fresno,Full-time,16.0,336.2,3.32
+2024,Finance,Financial Assistant,San Jose,Full-time,16.0,336.2,3.32
+2024,Finance,Collections Agent,Oakland,Full-time,16.0,336.2,3.32
+2024,Technology,Help Desk Technician,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Technology,IT Support,Stockton,Full-time,16.0,336.2,3.32
+2024,Technology,QA Tester,Riverside,Full-time,16.0,336.2,3.32
+2024,Technology,Junior Analyst,Modesto,Full-time,16.0,336.2,3.32
+2024,Technology,Data Technician,Los Angeles,Full-time,16.0,336.2,3.32
+2024,Technology,Network Assistant,San Diego,Full-time,16.0,336.2,3.32
+2024,Technology,Software Support,Sacramento,Full-time,16.0,336.2,3.32
+2024,Hospitality,Front Desk Clerk,Fresno,Full-time,16.0,336.2,3.32
+2024,Hospitality,Housekeeper,San Jose,Full-time,16.0,336.2,3.32
+2024,Hospitality,Event Coordinator,Oakland,Full-time,16.0,336.2,3.32
+2024,Hospitality,Concierge,Bakersfield,Full-time,16.0,336.2,3.32
+2024,Hospitality,Bellhop,Stockton,Full-time,16.0,336.2,3.32
+2024,Hospitality,Reservation Agent,Riverside,Full-time,16.0,336.2,3.32
+2024,Hospitality,Night Auditor,Modesto,Full-time,16.0,336.2,3.32
+2025,Retail,Cashier,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Retail,Sales Associate,San Diego,Full-time,16.5,347.8,3.45
+2025,Retail,Stock Clerk,Sacramento,Full-time,16.5,347.8,3.45
+2025,Retail,Store Supervisor,Fresno,Full-time,16.5,347.8,3.45
+2025,Retail,Customer Service Rep,San Jose,Full-time,16.5,347.8,3.45
+2025,Retail,Inventory Clerk,Oakland,Full-time,16.5,347.8,3.45
+2025,Retail,Visual Merchandiser,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Food Service,Cook,Stockton,Full-time,16.5,347.8,3.45
+2025,Food Service,Server,Riverside,Full-time,16.5,347.8,3.45
+2025,Food Service,Barista,Modesto,Full-time,16.5,347.8,3.45
+2025,Food Service,Dishwasher,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Food Service,Host,San Diego,Full-time,16.5,347.8,3.45
+2025,Food Service,Kitchen Assistant,Sacramento,Full-time,16.5,347.8,3.45
+2025,Food Service,Shift Lead,Fresno,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Assembler,San Jose,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Machine Operator,Oakland,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Welder,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Quality Inspector,Stockton,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Forklift Operator,Riverside,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Production Worker,Modesto,Full-time,16.5,347.8,3.45
+2025,Manufacturing,Packaging Technician,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Healthcare,Medical Assistant,San Diego,Full-time,16.5,347.8,3.45
+2025,Healthcare,Receptionist,Sacramento,Full-time,16.5,347.8,3.45
+2025,Healthcare,Pharmacy Technician,Fresno,Full-time,16.5,347.8,3.45
+2025,Healthcare,Caregiver,San Jose,Full-time,16.5,347.8,3.45
+2025,Healthcare,Lab Assistant,Oakland,Full-time,16.5,347.8,3.45
+2025,Healthcare,Billing Clerk,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Healthcare,EMT,Stockton,Full-time,16.5,347.8,3.45
+2025,Construction,Laborer,Riverside,Full-time,16.5,347.8,3.45
+2025,Construction,Carpenter,Modesto,Full-time,16.5,347.8,3.45
+2025,Construction,Electrician Helper,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Construction,Painter,San Diego,Full-time,16.5,347.8,3.45
+2025,Construction,Equipment Operator,Sacramento,Full-time,16.5,347.8,3.45
+2025,Construction,Concrete Worker,Fresno,Full-time,16.5,347.8,3.45
+2025,Construction,Estimator,San Jose,Full-time,16.5,347.8,3.45
+2025,Education,Teacher Aide,Oakland,Full-time,16.5,347.8,3.45
+2025,Education,Office Assistant,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Education,Tutor,Stockton,Full-time,16.5,347.8,3.45
+2025,Education,Librarian Assistant,Riverside,Full-time,16.5,347.8,3.45
+2025,Education,Registrar Clerk,Modesto,Full-time,16.5,347.8,3.45
+2025,Education,Campus Technician,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Education,Custodian,San Diego,Full-time,16.5,347.8,3.45
+2025,Transportation,Driver,Sacramento,Full-time,16.5,347.8,3.45
+2025,Transportation,Dispatcher,Fresno,Full-time,16.5,347.8,3.45
+2025,Transportation,Warehouse Associate,San Jose,Full-time,16.5,347.8,3.45
+2025,Transportation,Logistics Coordinator,Oakland,Full-time,16.5,347.8,3.45
+2025,Transportation,Delivery Driver,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Transportation,Fleet Clerk,Stockton,Full-time,16.5,347.8,3.45
+2025,Transportation,Shipping Clerk,Riverside,Full-time,16.5,347.8,3.45
+2025,Finance,Bank Teller,Modesto,Full-time,16.5,347.8,3.45
+2025,Finance,Loan Assistant,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Finance,Accounting Clerk,San Diego,Full-time,16.5,347.8,3.45
+2025,Finance,Payroll Specialist,Sacramento,Full-time,16.5,347.8,3.45
+2025,Finance,Data Entry Clerk,Fresno,Full-time,16.5,347.8,3.45
+2025,Finance,Financial Assistant,San Jose,Full-time,16.5,347.8,3.45
+2025,Finance,Collections Agent,Oakland,Full-time,16.5,347.8,3.45
+2025,Technology,Help Desk Technician,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Technology,IT Support,Stockton,Full-time,16.5,347.8,3.45
+2025,Technology,QA Tester,Riverside,Full-time,16.5,347.8,3.45
+2025,Technology,Junior Analyst,Modesto,Full-time,16.5,347.8,3.45
+2025,Technology,Data Technician,Los Angeles,Full-time,16.5,347.8,3.45
+2025,Technology,Network Assistant,San Diego,Full-time,16.5,347.8,3.45
+2025,Technology,Software Support,Sacramento,Full-time,16.5,347.8,3.45
+2025,Hospitality,Front Desk Clerk,Fresno,Full-time,16.5,347.8,3.45
+2025,Hospitality,Housekeeper,San Jose,Full-time,16.5,347.8,3.45
+2025,Hospitality,Event Coordinator,Oakland,Full-time,16.5,347.8,3.45
+2025,Hospitality,Concierge,Bakersfield,Full-time,16.5,347.8,3.45
+2025,Hospitality,Bellhop,Stockton,Full-time,16.5,347.8,3.45
+2025,Hospitality,Reservation Agent,Riverside,Full-time,16.5,347.8,3.45
+2025,Hospitality,Night Auditor,Modesto,Full-time,16.5,347.8,3.45
