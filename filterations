@@ -1,0 +1,547 @@
+#---Present data in a concise manner by finding correct use of data and datatype---
+
+
+import pandas as pd
+df = pd.read_csv('california_cpi_minimum_wage_occupations_2010_2025.csv')
+print(df.dtypes)
+
+Year                         int64
+Industry                       str
+Occupation                     str
+Region                         str
+Employment Type                str
+California Minimum Wage    float64
+California CPI Index       float64
+CPI Annual Change %        float64
+dtype: object
+import pandas as pd
+df = pd.read_csv('california_cpi_minimum_wage_occupations_2010_2025.csv')
+df["California Minimum Wage"] = "$" + df["California Minimum Wage"].astype(str)
+df.loc[:3,["Industry","Occupation","California Minimum Wage"]]
+Industry	Occupation	California Minimum Wage
+0	Retail	Cashier	$8.0
+1	Retail	Sales Associate	$8.0
+2	Retail	Stock Clerk	$8.0
+3	Retail	Store Supervisor	$8.0
+df.dtypes
+Year                         int64
+Industry                       str
+Occupation                     str
+Region                         str
+Employment Type                str
+California Minimum Wage        str
+California CPI Index       float64
+CPI Annual Change %        float64
+dtype: object
+
+-----------------------------------------------------------------------------------------------
+
+df = pd.read_csv('california_housing_cpi_subtable.csv')
+print(df.columns)
+Index(['Year', 'Industry', 'Housing CPI', 'Overall CPI', 'Median Rent',
+       'Median Home Price', 'Mortgage Rate'],
+      dtype='str')
+df.dtypes
+Year                   int64
+Industry                 str
+Housing CPI          float64
+Overall CPI          float64
+Median Rent            int64
+Median Home Price      int64
+Mortgage Rate        float64
+dtype: object
+df.info
+<bound method DataFrame.info of     Year       Industry  Housing CPI  Overall CPI  Median Rent  \
+0   2010         Retail        210.0        217.2          980   
+1   2010  Manufacturing        210.0        217.2          980   
+2   2010   Food Service        210.0        217.2          980   
+3   2011         Retail        215.0        223.0         1075   
+4   2011  Manufacturing        215.0        223.0         1075   
+5   2011   Food Service        215.0        223.0         1075   
+6   2012         Retail        219.4        227.7         1170   
+7   2012  Manufacturing        219.4        227.7         1170   
+8   2012   Food Service        219.4        227.7         1170   
+9   2013         Retail        223.6        231.3         1265   
+10  2013  Manufacturing        223.6        231.3         1265   
+11  2013   Food Service        223.6        231.3         1265   
+12  2014         Retail        228.8        235.7         1360   
+13  2014  Manufacturing        228.8        235.7         1360   
+14  2014   Food Service        228.8        235.7         1360   
+15  2015         Retail        234.2        240.5         1455   
+16  2015  Manufacturing        234.2        240.5         1455   
+17  2015   Food Service        234.2        240.5         1455   
+18  2016         Retail        239.9        246.0         1550   
+19  2016  Manufacturing        239.9        246.0         1550   
+20  2016   Food Service        239.9        246.0         1550   
+21  2017         Retail        246.8        252.9         1645   
+22  2017  Manufacturing        246.8        252.9         1645   
+23  2017   Food Service        246.8        252.9         1645   
+24  2018         Retail        254.7        261.0         1740   
+25  2018  Manufacturing        254.7        261.0         1740   
+26  2018   Food Service        254.7        261.0         1740   
+27  2019         Retail        262.8        267.9         1835   
+28  2019  Manufacturing        262.8        267.9         1835   
+29  2019   Food Service        262.8        267.9         1835   
+30  2020         Retail        269.1        272.2         1930   
+31  2020  Manufacturing        269.1        272.2         1930   
+32  2020   Food Service        269.1        272.2         1930   
+33  2021         Retail        281.5        287.6         2025   
+34  2021  Manufacturing        281.5        287.6         2025   
+35  2021   Food Service        281.5        287.6         2025   
+36  2022         Retail        304.6        313.7         2120   
+37  2022  Manufacturing        304.6        313.7         2120   
+38  2022   Food Service        304.6        313.7         2120   
+39  2023         Retail        317.2        325.4         2215   
+40  2023  Manufacturing        317.2        325.4         2215   
+41  2023   Food Service        317.2        325.4         2215   
+42  2024         Retail        329.5        336.2         2310   
+43  2024  Manufacturing        329.5        336.2         2310   
+44  2024   Food Service        329.5        336.2         2310   
+45  2025         Retail        342.8        347.8         2405   
+46  2025  Manufacturing        342.8        347.8         2405   
+47  2025   Food Service        342.8        347.8         2405   
+
+    Median Home Price  Mortgage Rate  
+0              305000           4.69  
+1              305000           4.69  
+2              305000           4.69  
+3              342000           4.82  
+4              342000           4.82  
+5              342000           4.82  
+6              379000           4.95  
+7              379000           4.95  
+8              379000           4.95  
+9              416000           5.08  
+10             416000           5.08  
+11             416000           5.08  
+12             453000           5.21  
+13             453000           5.21  
+14             453000           5.21  
+15             490000           5.34  
+16             490000           5.34  
+17             490000           5.34  
+18             527000           5.47  
+19             527000           5.47  
+20             527000           5.47  
+21             564000           5.60  
+22             564000           5.60  
+23             564000           5.60  
+24             601000           5.73  
+25             601000           5.73  
+26             601000           5.73  
+27             638000           5.86  
+28             638000           5.86  
+29             638000           5.86  
+30             675000           5.99  
+31             675000           5.99  
+32             675000           5.99  
+33             712000           6.12  
+34             712000           6.12  
+35             712000           6.12  
+36             749000           6.25  
+37             749000           6.25  
+38             749000           6.25  
+39             786000           6.38  
+40             786000           6.38  
+41             786000           6.38  
+42             823000           6.51  
+43             823000           6.51  
+44             823000           6.51  
+45             860000           6.64  
+46             860000           6.64  
+47             860000           6.64  >
+
+-----------------------------------------------------------------------------------------------
+
+import pandas as pd
+df = pd.read_csv("california_housing_cpi_subtable.csv")
+sorted_data = df.sort_values(
+    by="Median Home Price",
+    ascending=False
+)
+print(sorted_data)
+Year	Industry	Housing CPI	Overall CPI	Median Rent	Median Home Price	Mortgage Rate
+47	2025	Food Service	342.8	347.8	2405	860000	6.64
+46	2025	Manufacturing	342.8	347.8	2405	860000	6.64
+45	2025	Retail	342.8	347.8	2405	860000	6.64
+44	2024	Food Service	329.5	336.2	2310	823000	6.51
+43	2024	Manufacturing	329.5	336.2	2310	823000	6.51
+42	2024	Retail	329.5	336.2	2310	823000	6.51
+41	2023	Food Service	317.2	325.4	2215	786000	6.38
+40	2023	Manufacturing	317.2	325.4	2215	786000	6.38
+39	2023	Retail	317.2	325.4	2215	786000	6.38
+36	2022	Retail	304.6	313.7	2120	749000	6.25
+37	2022	Manufacturing	304.6	313.7	2120	749000	6.25
+38	2022	Food Service	304.6	313.7	2120	749000	6.25
+35	2021	Food Service	281.5	287.6	2025	712000	6.12
+34	2021	Manufacturing	281.5	287.6	2025	712000	6.12
+33	2021	Retail	281.5	287.6	2025	712000	6.12
+32	2020	Food Service	269.1	272.2	1930	675000	5.99
+31	2020	Manufacturing	269.1	272.2	1930	675000	5.99
+30	2020	Retail	269.1	272.2	1930	675000	5.99
+29	2019	Food Service	262.8	267.9	1835	638000	5.86
+28	2019	Manufacturing	262.8	267.9	1835	638000	5.86
+27	2019	Retail	262.8	267.9	1835	638000	5.86
+25	2018	Manufacturing	254.7	261.0	1740	601000	5.73
+26	2018	Food Service	254.7	261.0	1740	601000	5.73
+24	2018	Retail	254.7	261.0	1740	601000	5.73
+23	2017	Food Service	246.8	252.9	1645	564000	5.60
+22	2017	Manufacturing	246.8	252.9	1645	564000	5.60
+21	2017	Retail	246.8	252.9	1645	564000	5.60
+20	2016	Food Service	239.9	246.0	1550	527000	5.47
+19	2016	Manufacturing	239.9	246.0	1550	527000	5.47
+18	2016	Retail	239.9	246.0	1550	527000	5.47
+17	2015	Food Service	234.2	240.5	1455	490000	5.34
+16	2015	Manufacturing	234.2	240.5	1455	490000	5.34
+15	2015	Retail	234.2	240.5	1455	490000	5.34
+12	2014	Retail	228.8	235.7	1360	453000	5.21
+13	2014	Manufacturing	228.8	235.7	1360	453000	5.21
+14	2014	Food Service	228.8	235.7	1360	453000	5.21
+11	2013	Food Service	223.6	231.3	1265	416000	5.08
+10	2013	Manufacturing	223.6	231.3	1265	416000	5.08
+9	2013	Retail	223.6	231.3	1265	416000	5.08
+8	2012	Food Service	219.4	227.7	1170	379000	4.95
+7	2012	Manufacturing	219.4	227.7	1170	379000	4.95
+6	2012	Retail	219.4	227.7	1170	379000	4.95
+5	2011	Food Service	215.0	223.0	1075	342000	4.82
+4	2011	Manufacturing	215.0	223.0	1075	342000	4.82
+3	2011	Retail	215.0	223.0	1075	342000	4.82
+2	2010	Food Service	210.0	217.2	980	305000	4.69
+1	2010	Manufacturing	210.0	217.2	980	305000	4.69
+0	2010	Retail	210.0	217.2	980	305000	4.69
+
+housing_cpi = pd.read_csv("california_housing_cpi_subtable.csv")
+housing_cpi["Year"] = pd.to_numeric(cleaned_data["Year"], errors="coerce")
+husing_cpi = home_cpi.dropna(subset=["Year"])
+print(housing_cpi.head())
+
+Year	Industry	Housing CPI	Overall CPI	Median Rent	Median Home Price	Mortgage Rate
+0	2010	Retail	210.0	217.2	980	305000	4.69
+1	2010	Manufacturing	210.0	217.2	980	305000	4.69
+2	2010	Food Service	210.0	217.2	980	305000	4.69
+3	2011	Retail	215.0	223.0	1075	342000	4.82
+4	2011	Manufacturing	215.0	223.0	1075	342000	4.82
+5	2011	Food Service	215.0	223.0	1075	342000	4.82
+6	2012	Retail	219.4	227.7	1170	379000	4.95
+7	2012	Manufacturing	219.4	227.7	1170	379000	4.95
+8	2012	Food Service	219.4	227.7	1170	379000	4.95
+9	2013	Retail	223.6	231.3	1265	416000	5.08
+10	2013	Manufacturing	223.6	231.3	1265	416000	5.08
+11	2013	Food Service	223.6	231.3	1265	416000	5.08
+12	2014	Retail	228.8	235.7	1360	453000	5.21
+13	2014	Manufacturing	228.8	235.7	1360	453000	5.21
+14	2014	Food Service	228.8	235.7	1360	453000	5.21
+15	2015	Retail	234.2	240.5	1455	490000	5.34
+16	2015	Manufacturing	234.2	240.5	1455	490000	5.34
+17	2015	Food Service	234.2	240.5	1455	490000	5.34
+18	2016	Retail	239.9	246.0	1550	527000	5.47
+19	2016	Manufacturing	239.9	246.0	1550	527000	5.47
+20	2016	Food Service	239.9	246.0	1550	527000	5.47
+21	2017	Retail	246.8	252.9	1645	564000	5.60
+22	2017	Manufacturing	246.8	252.9	1645	564000	5.60
+23	2017	Food Service	246.8	252.9	1645	564000	5.60
+24	2018	Retail	254.7	261.0	1740	601000	5.73
+25	2018	Manufacturing	254.7	261.0	1740	601000	5.73
+26	2018	Food Service	254.7	261.0	1740	601000	5.73
+27	2019	Retail	262.8	267.9	1835	638000	5.86
+28	2019	Manufacturing	262.8	267.9	1835	638000	5.86
+29	2019	Food Service	262.8	267.9	1835	638000	5.86
+30	2020	Retail	269.1	272.2	1930	675000	5.99
+31	2020	Manufacturing	269.1	272.2	1930	675000	5.99
+32	2020	Food Service	269.1	272.2	1930	675000	5.99
+33	2021	Retail	281.5	287.6	2025	712000	6.12
+34	2021	Manufacturing	281.5	287.6	2025	712000	6.12
+35	2021	Food Service	281.5	287.6	2025	712000	6.12
+36	2022	Retail	304.6	313.7	2120	749000	6.25
+37	2022	Manufacturing	304.6	313.7	2120	749000	6.25
+38	2022	Food Service	304.6	313.7	2120	749000	6.25
+39	2023	Retail	317.2	325.4	2215	786000	6.38
+40	2023	Manufacturing	317.2	325.4	2215	786000	6.38
+41	2023	Food Service	317.2	325.4	2215	786000	6.38
+42	2024	Retail	329.5	336.2	2310	823000	6.51
+43	2024	Manufacturing	329.5	336.2	2310	823000	6.51
+44	2024	Food Service	329.5	336.2	2310	823000	6.51
+45	2025	Retail	342.8	347.8	2405	860000	6.64
+46	2025	Manufacturing	342.8	347.8	2405	860000	6.64
+47	2025	Food Service	342.8	347.8	2405	860000	6.64
+
+GDP Data Preparation
+# Semicolon-separated file
+chunks = pd.read_csv("Word_GDP.csv", skiprows=4)
+#chunks.columns
+
+mapped_data = "|".join(chunks)
+print(mapped_data)
+# Tab-separated file
+#chunks = pd.read_csv("Word_GDP.csv", sep="\t")
+#chunks.columns
+Country Name|Country Code|Indicator Name|Indicator Code|1960|1961|1962|1963|1964|1965|1966|1967|1968|1969|1970|1971|1972|1973|1974|1975|1976|1977|1978|1979|1980|1981|1982|1983|1984|1985|1986|1987|1988|1989|1990|1991|1992|1993|1994|1995|1996|1997|1998|1999|2000|2001|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019|2020|2021|2022|2023|2024|2025|Unnamed: 70
+
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+Data Analysis---2 variable and their limitations: 
+
+
+Data Hypothesis
+-Analyze 'Median_Home_Price' and 'California_CPI_Index' to identify economic trends.
+-Sort the data by 'Median Home Price' from highest to lowest.
+-Retrieve ---top 10 Median Home Prices--- and compare them with their corresponding California CPI values.
+-Identify limitations of max() and min() because 'Median Home Price' does not represent all California housing, 
+while CPI measures overall consumer prices rather than housing prices alone.
+
+
+<<<<<<<----------------------------------------------------------------------------------------------->>>>
+
+import pandas as pd
+
+df = pd.read_csv("california_cpi_minimum_wage_occupations_2010_2025.csv")
+df1 = pd.read_csv("california_housing_cpi_subtable.csv")
+
+#user_find = pd.merge(
+#    df,
+#    df1,
+#    on="Year",
+#    how="outer"
+#)
+
+#print(user_find.sort[10,"Median Home Price"])
+
+user_find = pd.merge(df, df1, on='Year', how="outer")
+
+
+print(user_find.iloc[1:-1][["Year", "Median Home Price"]])
+print(user_find['Median Home Price'].min(), "Min")
+print(user_find['Median Home Price'].max(),"Max")
+
+      Year  Median Home Price
+1     2010             305000
+2     2010             305000
+3     2010             305000
+4     2010             305000
+5     2010             305000
+...    ...                ...
+3354  2025             860000
+3355  2025             860000
+3356  2025             860000
+3357  2025             860000
+3358  2025             860000
+
+[3358 rows x 2 columns]
+305000 Min
+860000 Max
+
+<<<<<<<----------------------------------------------------------------------------------------------->>>>
+
+Correlation Analysis & Data Visualization
+
+#1)Mainly, this data has 'modified' data with selected target in World GDP 
+#2)There are correlations within one or two patterns of World GDP, CPI Home, and CPI index (inclusive)
+#3)Can be grouped further into ("targets")["segmentations"]["crypto"]
+
+--We can assemble data to calculate the effect of each GDP
+But GDP in this case is a single variable with no outliers. therefore, we will not use it for records.-- 
+
+-----------------------------------------------------------------------------------------------
+                            check page 4 of californiacpi_and_overalleffects
+import pandas as pd
+
+# Read files
+gdp = pd.read_csv("Word_GDP.csv", skiprows=4)
+
+cpi = pd.read_csv(
+    "california_cpi_minimum_wage_occupations_2010_2025.csv"
+)
+
+# Select USA
+usa = gdp[gdp["Country Name"] == "United States"]
+
+# Turn GDP year columns into rows
+usa = usa.melt(
+    id_vars=["Country Name"],
+    value_vars=[str(year) for year in range(2010, 2026)],
+    var_name="Year",
+    value_name="GDP"
+)
+
+# Convert Year to integer
+usa["Year"] = usa["Year"].astype(int)
+
+# Select California CPI information
+california = cpi[
+    ["Year", "California CPI Index", "CPI Annual Change %"]
+].drop_duplicates()
+
+# Merge California CPI with USA GDP
+merged = pd.merge(
+    california,
+    usa,
+    on="Year",
+    how="inner"
+)
+#data wrangling
+data = merged.sort_values(
+    by=["Year", "GDP"],
+    ascending=False
+)
+data
+Year	California CPI Index	CPI Annual Change %	Country Name	GDP
+15	2025	347.8	3.45	United States	3.076970e+13
+14	2024	336.2	3.32	United States	2.929801e+13
+13	2023	325.4	3.73	United States	2.781152e+13
+12	2022	313.7	9.08	United States	2.605461e+13
+11	2021	287.6	5.66	United States	2.372564e+13
+10	2020	272.2	1.61	United States	2.137528e+13
+9	2019	267.9	2.64	United States	2.153998e+13
+8	2018	261.0	3.20	United States	2.065652e+13
+7	2017	252.9	2.80	United States	1.961210e+13
+6	2016	246.0	2.29	United States	1.880491e+13
+5	2015	240.5	2.04	United States	1.829502e+13
+4	2014	235.7	1.90	United States	1.760814e+13
+3	2013	231.3	1.58	United States	1.688068e+13
+2	2012	227.7	2.11	United States	1.625397e+13
+1	2011	223.0	2.67	United States	1.559973e+13
+0	2010	217.2	NaN	United States	1.504897e+13
+
+-----------------------------------------------------------------------------------------------
+                            check page 6 of californiacpi_and_overalleffects presentation
+Visualization:
+Distribution on industry
+disctribution on inclusive 10 california minimum wage and on=GDP (category=america, variable limitation would be its key between 2 tables)
+Distribution Analysis
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv(
+    "california_cpi_minimum_wage_occupations_2010_2025.csv"
+)
+
+df.boxplot(
+    column="California CPI Index",
+    by="Year",
+    figsize=(21,5)
+)
+
+plt.title("California CPI Over the Years")
+plt.suptitle("")
+plt.xlabel("Year")
+plt.ylabel("California CPI Index")
+plt.xticks(rotation=45)
+
+plt.show()
+
+
+-----------------------------------------------------------------------------------------------
+                            check page 6 of californiacpi_and_overalleffects Presentation
+Relational Analysis
+One Relational Analysis (scatter plot or heatmap)
+%pip install seaborn
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv(
+    "california_cpi_minimum_wage_occupations_2010_2025.csv"
+)
+
+df1 = pd.read_csv(
+    "california_housing_cpi_subtable.csv"
+)
+
+scaled_programs = pd.merge(
+    df,
+    df1,
+    on="Year",
+    how="outer"
+)
+
+
+plt.scatter(
+    scaled_programs["Year"],
+    scaled_programs["Housing CPI"],
+    label="Housing CPI"
+)
+
+plt.scatter(
+    scaled_programs["Year"],
+    scaled_programs["California CPI Index"],
+    label="California CPI"
+)
+
+plt.xlabel("Year")
+plt.ylabel("CPI Index")
+plt.title("California CPI vs Housing CPI")
+plt.legend()
+
+plt.show()
+
+-----------------------------------------------------------------------------------------------
+                            check page 6 of californiacpi_and_overalleffects Presentation
+
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+sns.set_theme(style="darkgrid")
+
+WORD_GDP = pd.read_csv(
+    "california_housing_cpi_subtable.csv"
+)
+
+# Remove commas and convert home prices to numbers
+WORD_GDP["Median Home Price"] = (
+    WORD_GDP["Median Home Price"]
+    .astype(str)
+    .str.replace(",", "", regex=False)
+    .astype(float)
+)
+
+# Keep unique Year / Median Home Price combinations
+formate_ = WORD_GDP[
+    ["Year", "Median Home Price"]
+].drop_duplicates()
+
+# Only show 2020 and later
+formate_ = formate_[
+    formate_["Year"] >= 2020
+]
+
+# Create bar plot
+plt.figure(figsize=(10, 6))
+
+sns.barplot(
+    data=formate_,
+    x="Year",
+    y="Median Home Price"
+)
+
+plt.xlabel("Year")
+plt.ylabel("Median Home Price")
+plt.title("California Median Home Price by Year")
+
+plt.show()
+
+<<<<<<<----------------------------------------------------------------------------------------------->>>>
+<<<<<<<----------------------------------------------------------------------------------------------->>>>
+<<<<<<<----------------------------------------------------------------------------------------------->>>>
+
+#Visualization Summary
+#
+#
+#Correlation Summary for scatter plot: Based on the one or more variables and survey columns for analyses 
+—'California CPI Index', 'CPI Annual Change %', 'California Minimum Wage', 'Median Home Price', 'Housing CPI', and 'U.S. GDP' and rest of the columns
+This project hypothesizes that changes in the 'California CPI Index' are associated with changes in 'median home prices', 
+'minimum wage', and broader economic growth' over time. This analysis highlights a comparison of 'California CPI' with 'Housing CPI' 
+and 'Median Home Price' to determine whether increases in consumer price levels correspond with changes in California's housing market.
+
+#There are nor variable outliets or isolators such as housing rules or HOA. Therefore, we can project also examining California CPI alongside 'U.S. GDP' to identify, 
+possible, relationships between state-level price changes and broader economic trends.
+
+#Ultimately--Using data from 2010–2025, the analysis applies data cleaning, merging granuality, correlation analysis, and visualizations 
+to identify measurable trends between these economic variables. Particular attention is given to recent 'median home prices' from 2020–2025, 
+California CPI changes, and their movement solely in relational distribution.
+#
+#
+#Granuality Summary for bar plot: This verfies the minimum and maximum values of descrete value analysis 
+I picked columns from "cpi_housing_cpi_subtable" to compare major line of median_home_price to ['year'] category. While there are no granuality in series of short_term cpi index. There
+is extreme visual tipping of housing price from 2010_t0_2050.
+
